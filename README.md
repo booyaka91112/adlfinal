@@ -1,0 +1,1 @@
+The dataset in dataset.xlsx comprises 8,800 pairs of Chinese-Vietnamese place names and 726 pairs of Chinese-Vietnamese personal names.
