@@ -1,0 +1,80 @@
+		在{}的大街上，人群熙熙攘攘。
+		Trên con đường ở {}, đám đông đông đúc.
+		在{}的夜晚，灯火辉煌。
+		Vào buổi tối ở {}, đèn sáng rực rỡ.
+		{}的海滩上，沙子洁白细腻。
+		Trên bãi biển ở {}, cát trắng mịn.
+		从{}的高楼上，可以俯瞰整个城市。
+		Từ tòa nhà cao ở {}, bạn có thể nhìn xuống toàn bộ thành phố.
+		{}的山区风光秀丽，让人心旷神怡。
+		Phong cảnh núi ở {} tươi đẹp, làm cho người ta cảm thấy thoải mái.
+		在{}的江边，一条大桥横跨两岸。
+		Bên bờ sông ở {}, một cây cầu chạy ngang hai bờ.
+		在{}的茶馆里，人们品味着浓郁的茶香。
+		Ở quán trà ở {}, mọi người thưởng thức hương vị đậm đà của trà.
+		在{}的古城墙上，青石板铺就的路延伸而去。
+		Trên tường thành cổ ở {}, con đường được lát bằng đá xanh kéo dài.
+		在{}的西湖畔，柳树婆娑。
+		Bên hồ Tây ở {}, cây liễu lay động.
+		{}的夜市里，各种美食琳琅满目。
+		Trong chợ đêm ở {}, có đủ loại đồ ăn ngon.
+		从{}的海港出发，一艘船缓缓驶向远方。
+		Từ cảng biển ở {}, một con thuyền chậm rãi đi về phía xa xôi.
+		在{}的黄鹤楼上，风景宜人。
+		Ở trên tòa nhà Hoàng Hạc ở {}, phong cảnh dễ thương.
+		{}的海边，海浪拍打着礁石。
+		Ở bờ biển của {}, sóng biển vỗ vào đá ngầm.
+		在{}的古城区，古老的建筑沐浴在阳光下。
+		Ở khu phố cổ ở {}, các công trình cổ được tắm nắng.
+		在{}的公园里，人们散步欣赏花草。
+		Trong công viên ở {}, mọi người đi dạo ngắm hoa cỏ.
+		从{}的山川中穿行而过，一条清澈的河流。
+		Qua núi non ở {}, một con sông trong veo chảy qua.
+		在{}的高原上，空气清新宜人。
+		Trên cao nguyên ở {}, không khí trong lành dễ chịu.
+		{}的沙滩上，阳光明媚，海水湛蓝。
+		Trên bãi biển ở {}, nắng sáng, biển xanh thẳm.
+		在{}的湖边，荷花盛开。
+		Bên hồ ở {}, hoa sen nở rộ.
+		{}的冬日，雪花飘飘，银装素裹。
+		Mùa đông ở {}, tuyết rơi phủ trắng bạch.
+		在{}的港口，船只来往不息。
+		Ở cảng biển {}， tàu thuyền lưu thông không ngừng.
+		{}的冰灯节上，五彩斑斓的冰雕令人惊艳。
+		Tại Lễ hội đèn băng ở {}， những tác phẩm điêu khắc bằng băng màu sắc tạo ấn tượng mạnh mẽ.
+		在{}的沙漠边缘，风吹过沙丘。
+		Ở rìa sa mạc {}， gió thổi qua những cồn cát.
+		{}的古桥上，悠悠的江水流淌。
+		Trên cầu cổ ở {}， dòng sông chảy rì rào.
+		在{}的高山深谷中，奇峰突起。
+		Trong núi cao, hẻm núi sâu ở {}， những đỉnh núi kỳ lạ nổi bật.
+		从{}的高速公路上，风景如画。
+		Từ trên đường cao tốc ở {}， phong cảnh như tranh.
+		{}的冬天，白雪皑皑，寒意袭人。
+		Mùa đông ở {}， tuyết trắng tinh, lạnh buốt.
+		在{}的公园里，游人络绎不绝。
+		Trong công viên ở {}， du khách đông đúc không ngừng.
+		从{}的山脚下，一条河穿越而过。
+		Dọc theo chân núi ở {}， một dòng sông chảy qua.
+		{}的草原上，牛羊悠然自得。
+		Trên đồng cỏ ở {}， bò cừu thoải mái tự tại.
+		在{}的运河畔，古老的石桥依然屹立。
+		Bên bờ kênh đào ở {}， cầu đá cổ vẫn đứng vững.
+		在{}的现代城市中，摩天大楼拔地而起。
+		Trong thành phố hiện đại ở {}， các tòa nhà chọc trời nổi lên.
+		{}的湖畔，湖水清澈见底。
+		Bên hồ ở {}， nước hồ trong veo đến đáy.
+		从{}的高楼上，城市的繁华一览无余。
+		Từ tòa nhà cao ở {}， sự phồn thịnh của thành phố hiện ra trước mắt.
+		在{}的冰雪节上，雕塑艺术引人入胜。
+		Tại Lễ hội tuyết băng ở {}， nghệ thuật điêu khắc tuyết thu hút người xem.
+		{}的沙漠中，沙尘暴时而发生。
+		Trong sa mạc {}， cơn bão cát đôi khi xảy ra.
+		在{}的翠湖边，湖光山色宛如仙境。
+		Bên bờ hồ Thôi ở {}， ánh sáng và cảnh đẹp của núi non như thiên đàng.
+		从{}的古城墙上，可以俯瞰城市全貌。
+		Từ trên tường thành cổ ở {}， bạn có thể nhìn xuống toàn cảnh thành phố.
+		在{}的黄河畔，河水宁静地流淌。
+		Bên sông Hoàng Hà ở {}， nước sông chảy êm đềm.
+		{}的山峰险峻，雄伟壮观。
+		Những ngọn núi ở {} cao vút, hùng vĩ hùng tráng.
