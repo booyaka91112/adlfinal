@@ -21,11 +21,27 @@ Please refer to [this](https://huggingface.co/spaces/evaluate-metric/chrf)
 Score Range: The chrF(++) score can be any value between 0.0 and 100.0, inclusive.
 
 ## BLEU 
-Please refer to [this](https://huggingface.co/spaces/evaluate-metric/bleu)s
+Please refer to [this](https://huggingface.co/spaces/evaluate-metric/bleu)
 
 
 
 ## Usage
 ```shell
-python eval.py --data_path ../../dataset/test_eval.json
+python eval.py --data_path='../../output/gemini/vanilla_term.json' --metric='word'
+```
+
+input data format
+```text
+[
+    {
+        "src": "Dem Feuer konnte Einhalt geboten werden",
+        "mt": "The fire could be stopped",
+        "ref": "They were able to control the fire."
+    },
+    {
+        "src": "Schulen und Kinderg\u00e4rten wurden er\u00f6ffnet.",
+        "mt": "Schools and kindergartens were open",
+        "ref": "Schools and kindergartens opened"
+    }
+]
 ```

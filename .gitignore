@@ -1,0 +1,8 @@
+/src/baseline/valid_data.json
+/src/baseline/valid_place.json
+
+__pycache__
+
+/src/baseline/gemini_vanilla.json
+/src/baseline/gemini_3_shot.json
+/src/baseline/gemini_6_shot.json
