@@ -1,3 +1,30 @@
+import nltk 
+import json
+import heapq
+
+with open('../../dataset/final/train.json') as f:
+    dictionary = json.load(f)
+
+
+def get_n_smallest_distance_example(query: str, shot: int) -> list():
+    min_heap = list()
+    for word in dictionary:
+        distance = nltk.edit_distance(word['input'], query)
+        heapq.heappush(min_heap, (distance, word['input'], word['output']))
+
+    return heapq.nsmallest(shot, min_heap)
+
+
+def get_examples(query: str, shot: int) -> list:
+    """return silimar terminology examples prompt"""
+    examples = get_n_smallest_distance_example(query, shot)
+    prompt = ""
+    for example in examples:
+        prompt += f"{example[1]} -> {example[2]}\n"
+    return prompt[:-2]
+
+
+
 def get_prompt_sentence(source: str) -> str:
     return f"請幫我將這一句中文翻譯成越南語: {source}"
 
@@ -41,3 +68,17 @@ def get_prompt_6_shot_terminology(source: str) -> str:
 和秀二社" -> Xã Hòa Tú 2
 請幫我將中文翻譯成越南語:
 {source} -> """
+
+# 只用 請幫我將中文名詞翻譯成越南語 會受到影響，有些時候會翻譯到example的部分
+def get_prompt_3_shot_dist_terminology(source: str) -> str:
+    return f"""請幫我將中文名詞翻譯成越南語，以下一共有三個例子供你參考:
+{get_examples(source, 3)}
+請幫我將中文翻譯成越南語:
+{source} -> """
+
+def get_prompt_6_shot_dist_terminology(source: str) -> str:
+    return f"""請幫我將中文翻譯成越南語，以下一共有六個例子供你參考:
+{get_examples(source, 6)}
+請幫我將中文翻譯成越南語:
+{source} -> """
+

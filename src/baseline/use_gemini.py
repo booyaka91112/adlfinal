@@ -12,6 +12,7 @@ def parse_args():
     parser.add_argument('--output_path', type=str, default='x')
     parser.add_argument('--prompt_func', type=str, default='get_prompt', help="get prompt function name")
     parser.add_argument('--max_samples', type=int, default='250')
+    parser.add_argument('--use_similar_example', action='store_true', help='for few-shot learning case, use those examples that have smallest edit distance with target')
     args = parser.parse_args()
     return args
 
@@ -41,6 +42,7 @@ def main():
         src = data['input']
         ref = data['output']
         response = None
+        # print(get_prompt(src))
         try:
             response = model.generate_content(get_prompt(src),
                 generation_config=genai.types.GenerationConfig(
