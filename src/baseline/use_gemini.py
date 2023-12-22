@@ -11,6 +11,7 @@ def parse_args():
     parser.add_argument('--input_path', type=str, default='./data.json', help="input file path")
     parser.add_argument('--output_path', type=str, default='x')
     parser.add_argument('--prompt_func', type=str, default='get_prompt', help="get prompt function name")
+    parser.add_argument('--max_samples', type=int, default='250')
     args = parser.parse_args()
     return args
 
@@ -25,23 +26,37 @@ def main():
 
     # read data
     with open(args.input_path) as f:
-        data = json.load(f)
+        datas = json.load(f)
 
     source_list = []
     prediction_list = []
     reference_list = []
     get_prompt = getattr(utils, args.prompt_func)
-    for key, value in tqdm(data.items(), total=len(data)):
-        response = model.generate_content(get_prompt(key),
-            generation_config=genai.types.GenerationConfig(
-            # Only one candidate for now.
-            candidate_count=1,
-            stop_sequences=['x'],
-            temperature=1.0))
+    # for key, value in tqdm(data.items(), total=len(data)): # old data format
+    if args.max_samples > len(datas):
+        args.max_samples = len(datas)
+    datas = datas[:args.max_samples]
+
+    for data in tqdm(datas, total=len(datas)):
+        src = data['input']
+        ref = data['output']
+        response = None
+        try:
+            response = model.generate_content(get_prompt(src),
+                generation_config=genai.types.GenerationConfig(
+                # Only one candidate for now.
+                candidate_count=1,
+                stop_sequences=['x'],
+                temperature=1.0))
+            response = response.text
+        except KeyboardInterrupt:
+            return
+        except Exception as e:
+            print(e)
         
-        source_list.append(key)
-        prediction_list.append(response.text)
-        reference_list.append(value)
+        source_list.append(src)
+        prediction_list.append(response)
+        reference_list.append(ref)
 
     df = pd.DataFrame({'src': source_list,
                        'mt': prediction_list,
