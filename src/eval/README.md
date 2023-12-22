@@ -27,7 +27,7 @@ Please refer to [this](https://huggingface.co/spaces/evaluate-metric/bleu)
 
 ## Usage
 ```shell
-python eval.py --data_path ../../dataset/test_eval.json
+python eval.py --data_path='../../dataset/test_eval.json'
 ```
 
 input data format
