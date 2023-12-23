@@ -1,0 +1,627 @@
+[
+    {
+        "input": "Qingxingshe",
+        "output": ": \n### Xã Thanh Hưng Hưng Hưng Hưng Hưng Hưng Hưng Hưng Hư",
+        "ref": "Xã Thanh Hưng"
+    },
+    {
+        "input": "bishan shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Bút Sơn"
+    },
+    {
+        "input": "Liangzhongshe",
+        "output": ": \n### Xã Lương Trung Trọng Trung Hòa) là một xã trong huyện L",
+        "ref": "Xã Lương Trung"
+    },
+    {
+        "input": "Zhanwanshe",
+        "output": ": \n### Xã Trảng Vạnh Mẫu Sơn Vương Hầu Nhìu Vă",
+        "ref": "Xã Chim Vàn"
+    },
+    {
+        "input": "Shanlinshe",
+        "output": ": \n### Xã Sơn Lâm Thạch Linh Sơn Lâm Tây Linh), là một x",
+        "ref": "Xã Sơn Lâm"
+    },
+    {
+        "input": "Yanqing shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Diên Khánh"
+    },
+    {
+        "input": "Baoganshe",
+        "output": ": \n### Xã Bàu Cẩm Sơn Tây) là một xã trong huyện B",
+        "ref": "Xã Bàu Cạn"
+    },
+    {
+        "input": "Xingqingshe",
+        "output": ": \n### Xã Hưng Khánh Hưng Thành Học) là một trường trung họ",
+        "ref": "Xã Hưng Khánh"
+    },
+    {
+        "input": "Yihaishe",
+        "output": ": \n### Xã Nghĩa Hải Hải), Hải Hải, Hải Hải, Hải",
+        "ref": "Xã Nghĩa Hải"
+    },
+    {
+        "input": "Zhiling shi zhen",
+        "output": ": \n### Xã Chi Lăng Thị Trấn) là một thị trấn huyện lịch s�",
+        "ref": "Thị trấn Chi Lăng"
+    },
+    {
+        "input": "donghefang",
+        "output": ": \n",
+        "ref": "Phường Đông Hòa"
+    },
+    {
+        "input": "This fan she",
+        "output": ": \n### Xã Bản Chảy Đắk Sóng 1), Xã Mường Sóng 1)",
+        "ref": "Xã Bản Mế"
+    },
+    {
+        "input": "Feiduoshe",
+        "output": ": \n### Xã Phi Đao Xã) là một xã thuộc huyện Phước Đ",
+        "ref": "Xã Phi Tô"
+    },
+    {
+        "input": "廻㹦社",
+        "output": ": \n### Xã Tà Lèo Xáo Sao, Khoa Sao), là một xã huyện ch",
+        "ref": "Xã Pa Cheo"
+    },
+    {
+        "input": "Hemingfang",
+        "output": ": \n",
+        "ref": "Phường Hợp Minh"
+    },
+    {
+        "input": "Jingyangfang",
+        "output": ": \n",
+        "ref": "Phường Kênh Dương"
+    },
+    {
+        "input": "Xiangping Xiefang",
+        "output": ": \n",
+        "ref": "Phường Tương Bình Hiệp"
+    },
+    {
+        "input": "Dinghaishe",
+        "output": ": \n### Xã Định Hải Hòa Thạch Hòa Thịnh), là một xã",
+        "ref": "Xã Định Hải"
+    },
+    {
+        "input": "fushunshe",
+        "output": ": \n### Xã Phú Thuận Thuận Thuận) là một xã thuộc huyệ",
+        "ref": "Xã Phúc Thuận"
+    },
+    {
+        "input": "Heyang shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Cây Dương"
+    },
+    {
+        "input": "Zhaoshangshe",
+        "output": ": \n### Xã Triệu Thượng Thương Thượng Hóa Thượng Hóa Thượ",
+        "ref": "Xã Triệu Thượng"
+    },
+    {
+        "input": "Fuluofang",
+        "output": ": \n",
+        "ref": "Phường Phú La"
+    },
+    {
+        "input": "Zhoucheng xian",
+        "output": ": \n",
+        "ref": "Huyện Châu Thành"
+    },
+    {
+        "input": "Xinxi News Agency",
+        "output": ": \n### Xã Tân Tây Tân Tử Giám Đốc Quảng Ngãi Tân T��",
+        "ref": "Xã Tân Tây"
+    },
+    {
+        "input": "Chun Tang She",
+        "output": ": \n### Xã Xuân Đường Sơn Tây) là một xã trong quận 1",
+        "ref": "Xã Xuân Đường"
+    },
+    {
+        "input": "Chunhefang",
+        "output": ": \n",
+        "ref": "Phường Xuân Hà"
+    },
+    {
+        "input": "Anshengshe",
+        "output": ": \n### Xã An Thạnh Thắng) \n### Xã An Thạnh Thắng) \n###",
+        "ref": "Xã Yên Thịnh"
+    },
+    {
+        "input": "He Jianshe",
+        "output": ": \n### Xã Hòa Kiện Thượng) là một xã trực thuộc huyện",
+        "ref": "Xã Hoà Kiến"
+    },
+    {
+        "input": "Zhulinfang",
+        "output": ": \n",
+        "ref": "Phường Trúc Lâm"
+    },
+    {
+        "input": "Guishunshe",
+        "output": ": \n### Xã Quế Thuận Thành) \n### Xã Quế Thuận Thành Thành",
+        "ref": "Xã Quế Thuận"
+    },
+    {
+        "input": "Deguishe",
+        "output": ": \n### Xã Đắk Củi Cóc Khoa) là một xã thuộc huyện",
+        "ref": "Xã Đắk Kôi"
+    },
+    {
+        "input": "Bohe she",
+        "output": ": \n### Xã Ba Hào Hòa Lạc) là một xã trong huyện Ba Hào,",
+        "ref": "Xã Bảo Hòa"
+    },
+    {
+        "input": "Chen Xuan",
+        "output": ": \nChen Xuan \n\n",
+        "ref": "Trần Cảnh"
+    },
+    {
+        "input": "Yongxingfang",
+        "output": ": \n",
+        "ref": "Phường Vĩnh Hưng"
+    },
+    {
+        "input": "Yongxingshe",
+        "output": ": \n",
+        "ref": "Xã Vĩnh Hanh"
+    },
+    {
+        "input": "Meizhongshe",
+        "output": ": \n### Xã Mỹ Trung Trung Tây), là một xã thuộc huyện Mỹ Trung",
+        "ref": "Xã Mai Trung"
+    },
+    {
+        "input": "xinchashe",
+        "output": ": \n### Xã Tân Tràng Hạ), là một xã trong quận 2, tỉnh",
+        "ref": "Xã Sín Chải"
+    },
+    {
+        "input": "xinshunshe",
+        "output": ": \n### Xã Tân Thuận Thủy) \n### Xã Tân Thuận Thủy) \n",
+        "ref": "Xã Tân Thuận"
+    },
+    {
+        "input": "Wu Mao",
+        "output": ": \n",
+        "ref": "Vũ Mão"
+    },
+    {
+        "input": "Xuanyunshe",
+        "output": ": \n### Xã Huyền Vân Sở, Huyện Huyền Văn Sở, t",
+        "ref": "Xã Hiên Vân"
+    },
+    {
+        "input": "Tuyen Quang sheng",
+        "output": ": \n### PROVINCE: Tỉnh Đồng Nai \n",
+        "ref": "Tỉnh Tuyên Quang"
+    },
+    {
+        "input": "Sanping shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Tam Bình"
+    },
+    {
+        "input": "Ahemlai",
+        "output": ": \n### AHemlai \n### Xã Ea H'mleh Krai) \n### AHemlai",
+        "ref": "Xã Ea H'Mlay"
+    },
+    {
+        "input": "Dazeshe",
+        "output": ": \n### Xã Đại Trạch Hà), là một xã đô thị trên đảo H",
+        "ref": "Xã Đại Trạch"
+    },
+    {
+        "input": "Bidong shi zhen",
+        "output": ": \n### Thị trấn Bình Đông)\n### Xã Bình Đông)\n##",
+        "ref": "Thị trấn Bích Động"
+    },
+    {
+        "input": "Qionglushe",
+        "output": ": \n### Xã Quỳnh Lộc Lộc Thọc), là một xã trong huyện Kỳ",
+        "ref": "Xã Quỳnh Lộc"
+    },
+    {
+        "input": "Chen Guowang",
+        "output": ": \n### Trần Quốc Vượng \n### Trần Quốc Vượng \n### Trầ",
+        "ref": "Trần Quốc Vượng"
+    },
+    {
+        "input": "Zela xian",
+        "output": ": \n",
+        "ref": "Huyện Chợ Lách"
+    },
+    {
+        "input": "chaju shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Trà Cú"
+    },
+    {
+        "input": "Deshengshe",
+        "output": ": \n### Xã Đắk Thịnh Hưng Thành) là một xã thuộc huyệ",
+        "ref": "Xã Đức Thắng"
+    },
+    {
+        "input": "Guangxishe",
+        "output": ": \n### Xã Quảng Khê Tây Hành) là một xã trực thuộc huyệ",
+        "ref": "Xã Quảng Khê"
+    },
+    {
+        "input": "Xinglongshe",
+        "output": ": \n### Xã Hưng Long Xáng) \n### Xã Hưng Long Tàng) \n### ASS",
+        "ref": "Xã Hưng Long"
+    },
+    {
+        "input": "Qinglin she",
+        "output": ": \n### Xã Khánh Lâm Hạt Đức Lập), là một xã thuộc h",
+        "ref": "Xã Khánh Lâm"
+    },
+    {
+        "input": "Zhongsifang",
+        "output": ": \n",
+        "ref": "Phường Trung Tự"
+    },
+    {
+        "input": "Thanh Hoa shi",
+        "output": ": \n",
+        "ref": "Thành phố Thanh Hóa"
+    },
+    {
+        "input": "Ruan Ngoc Ruqiong",
+        "output": ": \n",
+        "ref": "Nguyễn Ngọc Như Quỳnh"
+    },
+    {
+        "input": "Chunshan she",
+        "output": ": \n### Xã Xuân Sơn Hà) là một xã trong huyện Xuân Sơn H",
+        "ref": "Xã Xuân Sơn"
+    },
+    {
+        "input": "Decai shi zhen",
+        "output": ": \n### Thị trấn Đức Thái Thiệu Huyện Thọ Xái Châu) là",
+        "ref": "Thị trấn Đức Tài"
+    },
+    {
+        "input": "Yang Yunzhi",
+        "output": ": \n### Dẫn xuất: Dương Doãn Trị \n### Xã Dương ",
+        "ref": "Dương Doãn Chấp"
+    },
+    {
+        "input": "Nongbufang",
+        "output": ": \n",
+        "ref": "Phường Noong Bua"
+    },
+    {
+        "input": "𢄂Buy the shi zhen",
+        "output": ": \n### Thị trấn Chợ Mới Tây Bắc Mỹ \n### Thị trấn Tân B",
+        "ref": "Thị trấn Chợ Mới"
+    },
+    {
+        "input": "Liren xian",
+        "output": ": \n### Huyện Lương Nhân)\n\n",
+        "ref": "Huyện Lý Nhân"
+    },
+    {
+        "input": "Longtian xian",
+        "output": ": \n",
+        "ref": "Huyện Long Điền"
+    },
+    {
+        "input": "Jinxifang",
+        "output": ": \n",
+        "ref": "Phường Cẩm Tây"
+    },
+    {
+        "input": "Jilingfang",
+        "output": ": \n",
+        "ref": "Phường Cát Linh"
+    },
+    {
+        "input": "Jinwu she",
+        "output": ": \n### Xã Cẩm Vũ Hiệp Hòa) là một xã thuộc huyện",
+        "ref": "Xã Cẩm Vũ"
+    },
+    {
+        "input": "Perfume shi she",
+        "output": ": \n### Xã Hương Thới Thiều Hóa Thông Thượng Thống Nhất",
+        "ref": "Thị xã Hương Thủy"
+    },
+    {
+        "input": "Qinghe she",
+        "output": ": \n### Xã Thanh Hòa Xã) là một xã trực thuộc huyện Bìn",
+        "ref": "Xã Thanh Hà"
+    },
+    {
+        "input": "Ruiyueshe",
+        "output": ": \n### Xã Thụy Việt Nghĩa Học Học Hội \n### Xã Thu�",
+        "ref": "Xã Thuỵ Việt"
+    },
+    {
+        "input": "muzhou shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Mộc Châu"
+    },
+    {
+        "input": "Chiayi shi",
+        "output": ": \n",
+        "ref": "Thành phố Gia Nghĩa"
+    },
+    {
+        "input": "Guoweishe",
+        "output": ": \n### Xã Quốc Duyên Nghĩa Hòa Việt Thực Tử) là một",
+        "ref": "Xã Quốc Oai"
+    },
+    {
+        "input": "Guanglishe",
+        "output": ": \n### Xã Quảng Lý Sơn Trường) là một xã thuộc huyện Qu",
+        "ref": "Xã Quảng Lợi"
+    },
+    {
+        "input": "fushan shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Phú Thiện"
+    },
+    {
+        "input": "Hau Giang sheng",
+        "output": ": \n### PROVINCE: Tỉnh Hậu Giang, Việt Nam Công Giang, Hậu",
+        "ref": "Tỉnh Hậu Giang"
+    },
+    {
+        "input": "Shaoyuanshe",
+        "output": ": \n### Xã Thiệu Viên Sơn) là một xã thuộc huyện Thiệu",
+        "ref": "Xã Thiệu Nguyên"
+    },
+    {
+        "input": "Hedushe",
+        "output": ": \n### Xã Hà Độc Thôn) là một xã trong huyện Hà Đức",
+        "ref": "Xã Hà Lâu"
+    },
+    {
+        "input": "Yizhongshe",
+        "output": ": \n### Xã Nghĩa Trung Trung Trực), là một xã trung tâm của huy",
+        "ref": "Xã Nghĩa Trung"
+    },
+    {
+        "input": "Lianchengshe",
+        "output": ": \n### Xã Liêm Thành Hòa) \n### Xã Lại Thành Hòa) là mộ",
+        "ref": "Xã Liên Thành"
+    },
+    {
+        "input": "Fushe",
+        "output": ": \n### Xã Phúc Xáo) là một xã trong huyện Phúc Tài, thu",
+        "ref": "Xã Phú Hựu"
+    },
+    {
+        "input": "Xiantongfang",
+        "output": ": \n",
+        "ref": "Phường Hàm Rồng"
+    },
+    {
+        "input": "Tanhe shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Đầm Hà"
+    },
+    {
+        "input": "Miheshe",
+        "output": ": \n### Xã Mỹ Hòa Xáo Sáo Hải Tây), là một xã thuộc",
+        "ref": "Xã Mị Hòa"
+    },
+    {
+        "input": "xiebushe",
+        "output": ": \n### Xã Tà Bằc Tây Bắc Thành phố Hải Bắc Thành ph",
+        "ref": "Xã Tạ Bú"
+    },
+    {
+        "input": "Yongjinshe",
+        "output": ": \n### Xã Vĩnh Tiến Tân) là một xã trong quận 1, Thành ph",
+        "ref": "Xã Vĩnh Kim"
+    },
+    {
+        "input": "Xinchuanfang",
+        "output": ": \n",
+        "ref": "Phường Tân Xuyên"
+    },
+    {
+        "input": "Jinongshe",
+        "output": ": \n### Xã Cẩm Nong Hồng) là một xã trong huyện Kim Bảng,",
+        "ref": "Xã Tế Nông"
+    },
+    {
+        "input": "Third jun",
+        "output": ": \n### QUADRUPLE 3 \n",
+        "ref": "Quận 3"
+    },
+    {
+        "input": "Xinxiongshe",
+        "output": ": \n### Xã Tân Hùng Tân Hồng Thành Tây Hồng Thành Tây Hồng",
+        "ref": "Xã Tân Hùng"
+    },
+    {
+        "input": "xixiaoshe",
+        "output": ": \n### Xã Tây Hạo Sơn Tràng) là một xã trong huyện Tây",
+        "ref": "Xã Tây Hiếu"
+    },
+    {
+        "input": "Wanpingshe",
+        "output": ": \n### Xã Vạn Bình Hưng) \n",
+        "ref": "Xã Vạn Bình"
+    },
+    {
+        "input": "yellow news agency",
+        "output": ": \n### Xã Cam Tân Tân Tử Giảng Hồi Giáo Đoàn Thường Kê",
+        "ref": "Xã Hoàng Tân"
+    },
+    {
+        "input": "patriot she",
+        "output": ": \n### Xã Yết Tát Xáng Xiêng Sóng Tây Tảo Kháng Tung) là",
+        "ref": "Xã Ái Quốc"
+    },
+    {
+        "input": "Ice Wrinkle Forest she",
+        "output": ": \n### Xã Băng Bằng Cốc Phước Sơn Thảo Khoa), là mộ",
+        "ref": "Xã Phăng Sô Lin"
+    },
+    {
+        "input": "Tanglin she",
+        "output": ": \n### Xã Đường Lâm Sơn Thượng Thất Thiên Thai Thiên Thai",
+        "ref": "Xã Đường Lâm"
+    },
+    {
+        "input": "Tianfushe",
+        "output": ": \n### Xã Điền Phúc Phúc Thọ) là một xã trong huyện Đ",
+        "ref": "Xã Thiên Phủ"
+    },
+    {
+        "input": "Petrochemical she",
+        "output": ": \n### Xã Phú Thiết Khoa Học, Phú Thiết Khoa Học Xã H",
+        "ref": "Xã Thạch Hóa"
+    },
+    {
+        "input": "Anhefang",
+        "output": ": \n",
+        "ref": "Phường Yên Hòa"
+    },
+    {
+        "input": "Guishanshe",
+        "output": ": \n### Xã Quế Sơn Hạ) là một xã thuộc huyện Quế Sơn H",
+        "ref": "Xã Quý Sơn"
+    },
+    {
+        "input": "Bac Ninh shi",
+        "output": ": \n",
+        "ref": "Thành phố Bắc Ninh"
+    },
+    {
+        "input": "Yihefang",
+        "output": ": \n",
+        "ref": "Phường Nghi Hòa"
+    },
+    {
+        "input": "Zhaochengshe",
+        "output": ": \n### Xã Triệu Thành Hòa Thành) là một xã thuộc huyện Tri",
+        "ref": "Xã Triệu Thành"
+    },
+    {
+        "input": "Sanjiangdongshe",
+        "output": ": \n### Xã Tam Giang Đông Sông Thượng Cửa Sông Thủy K��",
+        "ref": "Xã Tam Giang Đông"
+    },
+    {
+        "input": "Dongxing Company A",
+        "output": ": \n### Xã Đông Hưng A A 1 \n",
+        "ref": "Xã Đông Hưng A"
+    },
+    {
+        "input": "Milo shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Mỹ Lộc"
+    },
+    {
+        "input": "Fengyunshe",
+        "output": ": \n### Xã Phong Vân Sủa) là một xã thuộc huyện Phong Vân S�",
+        "ref": "Xã Phong Vân"
+    },
+    {
+        "input": "Mangchengshe",
+        "output": ": \n### Xã Mường Thành Thành phố), thành phố Mường Thành), thàn",
+        "ref": "Xã Mường Chiềng"
+    },
+    {
+        "input": "anhuashe",
+        "output": ": \n### Xã An Hóa Thiệu, Thị xã An Hóa Thiệu Công Công,",
+        "ref": "Xã Yên Hoa"
+    },
+    {
+        "input": "charity she",
+        "output": ": \n### Xã Từ Thiện) là một xã thuộc huyện Từ S",
+        "ref": "Xã Giao Thiện"
+    },
+    {
+        "input": "rate association",
+        "output": ": \n### ASSOCIATION: Xã Suối Hiệp Hiệp Hóa Đoàn Thể Xã Hộ",
+        "ref": "Xã Suối Kiết"
+    },
+    {
+        "input": "Qingwei xian",
+        "output": ": \n",
+        "ref": "Huyện Thanh Oai"
+    },
+    {
+        "input": "Xianshanshe",
+        "output": ": \n### Xã Hàm Sơn Sơn Thiện Thành) là một xã thuộc h",
+        "ref": "Xã Tiên Sơn"
+    },
+    {
+        "input": "Guiyi shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Quỹ Nhất"
+    },
+    {
+        "input": "Yishe She",
+        "output": ": \n### Xã Nghĩa Xáo Xã Hệ Thống Thượng) là một xã thuộ",
+        "ref": "Xã Nghi Xá"
+    },
+    {
+        "input": "Nguyen Dinh Thi",
+        "output": ": \n### Nguyễn Đình Thái \n### Nguyễn Đình Thái",
+        "ref": "Nguyễn Đình Tứ"
+    },
+    {
+        "input": "imitation she",
+        "output": ": \n### Xã Phiên Mẫu) là một xã đô thị chưa chính thứ",
+        "ref": "Xã Phổng Lập"
+    },
+    {
+        "input": "Jiaqing shi zhen",
+        "output": ": \n",
+        "ref": "Thị trấn Gia Khánh"
+    },
+    {
+        "input": "An Tongshe",
+        "output": ": \n### Xã An Đồng Sơn Hạ) là một xã thuộc huyện Yên T",
+        "ref": "Xã An Đồng"
+    },
+    {
+        "input": "Nanxiong she",
+        "output": ": \n### Xã Nam Hùng Hội Nguyên Ngôn \n### Xã Nam Hùng Hội N",
+        "ref": "Xã Nam Hùng"
+    },
+    {
+        "input": "yangshuishe",
+        "output": ": \n### Xã Dương Thủy Thuỷ Học Sĩ Thực Tử Học S",
+        "ref": "Xã Dương Thủy"
+    },
+    {
+        "input": "Lianmingshe",
+        "output": ": \n### Xã Liêm Minh Cầu) \n### Xã Liêm Minh Cầu) \n### Xã",
+        "ref": "Xã Liên Minh"
+    },
+    {
+        "input": "pingshengshe",
+        "output": ": \n",
+        "ref": "Xã Bình Thắng"
+    },
+    {
+        "input": "Xiongcheng she",
+        "output": ": \n### Xã Hùng Thành Hòa) là một xã trong huyện Hùng Thành",
+        "ref": "Xã Hùng Thành"
+    },
+    {
+        "input": "Lianshunshe",
+        "output": ": \n### Xã Liên Thuận Thủy) \n### Xã Liên Thuận Thủy) \n",
+        "ref": "Xã Liêm Thuận"
+    },
+    {
+        "input": "Acting in pornographic she",
+        "output": ": \n### Xã Diễn Lào Phước Học Tập Trung tâm vào 199",
+        "ref": "Xã Diễn Hoàng"
+    }
+]
