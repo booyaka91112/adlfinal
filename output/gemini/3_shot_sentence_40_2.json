@@ -1,0 +1,202 @@
+[
+    {
+        "src": "我來自臺北市。",
+        "mt": "Tôi đến từ Taipei.",
+        "ref": "Tôi đến từ thành phố Đài Bắc."
+    },
+    {
+        "src": "我住在新北市。",
+        "mt": "Tôi ở thành phố tân bắc.",
+        "ref": "Tôi sống ở thành phố Tân Bắc."
+    },
+    {
+        "src": "桃園市在哪裡?",
+        "mt": "Đào viên thị ở đâu?",
+        "ref": "Thành phố Đào Viên ở đâu?"
+    },
+    {
+        "src": "我在臺中市上班。",
+        "mt": "我在臺中工作。",
+        "ref": "Tôi làm việc ở thành phố Đài Trung."
+    },
+    {
+        "src": "臺南市離這裡遠嗎?",
+        "mt": "臺南市離此處有多遠？",
+        "ref": "Thành phố Đài Nam có xa đây không?"
+    },
+    {
+        "src": "你能告訴我高雄市的具體位置嗎?",
+        "mt": "你能不能告诉我高雄市的确切位置？",
+        "ref": "Bạn có thể cho tôi biết vị trí cụ thể của thành phố Cao Hùng không?"
+    },
+    {
+        "src": "基隆市有哪些著名的地標?",
+        "mt": "基隆市有許多著名的地標，包括：\n- 基隆港：基隆港是臺灣最重要的港口之一，也是世界第三大天然良港，素有「塞外海島第一津」之稱。\n- 基隆嶼：基隆嶼是一座無人島，位於基隆港外海，因其獨特的地理環境和生態，被譽為「海上桂冠」。\n- 大武崙砲台：大武崙砲台是清朝時期興建的軍事要塞，位於基隆市中山區的大武崙山，是臺灣現存最完整的砲台之一。\n- 望幽谷：望幽谷位於基隆市暖暖區，是一個風景優美、歷史悠久的景點，因其山谷幽深、景色宜人，而得名「望幽谷」。\n- 基隆文化中心：基隆文化中心位於基隆市中正區，是一座集圖書館、博物館、展覽館等多功能設施於一體的文化綜合體，是基隆市重要的文化地標。",
+        "ref": "Thành phố Cơ Long có địa danh nổi tiếng nào?"
+    },
+    {
+        "src": "嘉義市的面積是多少?",
+        "mt": "嘉義市的面積是多少? -> Diện tích thành phố Gia Nghĩa là bao nhiêu?",
+        "ref": "Diện tích thành phố Gia Nghĩa là bao nhiêu?"
+    },
+    {
+        "src": "有多少人住在新竹市?",
+        "mt": "Có bao nhiêu người sống ở thành phố tân trúc?",
+        "ref": "Có bao nhiêu người sinh sống ở thành phố Tân Trúc?"
+    },
+    {
+        "src": "您去過澎湖縣嗎？",
+        "mt": "Bạn đã từng đến huyện Bành Hồ chưa?",
+        "ref": "Bạn đã đến huyện Bành Hồ chưa?"
+    },
+    {
+        "src": "我想了解屏東縣的歷史。",
+        "mt": "Tôi muốn tìm hiểu về lịch sử của huyện bình đông.",
+        "ref": "Tôi muốn tìm hiểu lịch sử của huyện Bình Đông."
+    },
+    {
+        "src": "我很喜歡彰化縣的氣候。",
+        "mt": "Tôi rất thích khí hậu của thủ phủ Đài Loan.",
+        "ref": "Tôi rất thích khí hậu của huyện Chương Hóa."
+    },
+    {
+        "src": "臺東縣的夜生活怎麼樣？",
+        "mt": "臺東縣的夜生活非常豐富。您可以與朋友一起去酒吧、俱樂部、KTV 。如果您喜歡安靜的環境，也可以去咖啡廳或圖書館。\n\n\n以下是一些臺東縣的夜生活推薦：\n\n\n* 酒吧：臺東縣有很多酒吧，您可以根據自己的喜好選擇。一些著名的酒吧包括：\n>\n\n>*. Message酒吧:  訊息酒吧位於台東市民權路一段50號，提供現場音樂表演和各種飲品，是當地人氣頗高的酒吧。\n\n>*. 印度山茶花酒吧：位於台東縣知本鄉，提供各種手工精釀啤酒和現場音樂表演，深受啤酒愛好者的喜愛。\n\n>*. 山海浮舞酒吧：位於台東縣長濱鄉，以其獨特的裝潢和現場音樂表演而聞名，是當地熱門的酒吧之一。\n\n\n* 俱樂部：臺東縣也有很多俱樂部，您可以盡情跳舞。一些著名的俱樂部包括：\n>\n\n>*. 浮光掠影俱樂部：位於台東市民生路一段20號，擁有寬敞的舞池和各種燈光音響效果，是當地人氣頗高的俱樂部。\n\n>*. 迷幻森林俱樂部：位於台東縣知本鄉，以其獨特的裝潢和電音音樂而聞名，是當地熱門的俱樂部之一。\n\n>*. 星光大道俱樂部：位於台東縣長濱鄉，擁有寬敞的舞池和各種燈光音響效果，是當地人氣頗高的俱樂部。\n\n\n* KTV：臺東縣也有很多KTV，您可以和朋友一起唱歌。一些著名的KTV包括：\n>\n\n>*. 好樂迪歡唱台北站前店：位於台東市民權路一段60號，提供各種自助餐和各式各樣的歌曲，是當地人氣頗高的KTV。\n\n>*.  錢櫃台北南京店：位於台東縣知本鄉，提供各種自助餐和各式各樣的歌曲，是當地熱門的KTV之一。\n\n>*. 金嗓卡拉OK 台北中華店：位於台東縣池上鄉，提供各種自助餐和各式各樣的歌曲，是當地人氣頗高的KTV。\n\n\n* 咖啡廳：如果您喜歡安靜的環境，可以去咖啡廳。一些著名的咖啡廳包括：\n>\n\n>*. 路易莎咖啡：位於台東市民生路一段30號，提供各種咖啡、茶和蛋糕，是當地人氣頗高的咖啡廳。\n\n>*. 星巴克咖啡：位於台東縣知本鄉，提供各種咖啡、茶和蛋糕，是當地熱門的咖啡廳之一。\n\n>*. 85℃咖啡：位於台東縣池上鄉，提供各種咖啡、茶和蛋糕，是當地人氣頗高的咖啡廳。\n\n\n* 圖書館：如果您喜歡閱讀，可以去圖書館。一些著名的圖書館包括：\n>\n\n>*. 台東市立圖書館：位於台東市民生路一段40號，提供各種書籍、報紙和雜誌，是當地人氣頗高的圖書館。\n\n>*. 國立台東大學圖書館：位於台東縣知本鄉，提供各種書籍、報紙和雜誌，是當地熱門的圖書館之一。\n\n>*. 國立自然科學博物館圖書館：位於台東縣池上鄉，提供各種書籍、報紙和雜誌，是當地人氣頗高的圖書館。",
+        "ref": "Cuộc sống về đêm ở huyện Đài Đông như thế nào?"
+    },
+    {
+        "src": "嘉義縣有多少人口？",
+        "mt": "嘉義縣有多少人口？這個問題需要更具體的數據來回答，因此無法生成答案。",
+        "ref": "Dân số huyện Gia Nghĩa là bao nhiêu?"
+    },
+    {
+        "src": "花蓮縣安全嗎？",
+        "mt": "花蓮縣是安全的。",
+        "ref": "Huyện Hoa Liên có an toàn không?"
+    },
+    {
+        "src": "我夢想住在苗栗縣。",
+        "mt": "Tôi mơ ước sống ở miêu lý huyện.",
+        "ref": "Tôi mơ ước được sống ở huyện Miêu Lật."
+    },
+    {
+        "src": "我在南投縣遇見她。",
+        "mt": "Tôi đã gặp cô ấy ở Nam Đầu.",
+        "ref": "Tôi gặp cô ấy ở thành phố Hà Nội."
+    },
+    {
+        "src": "我想念在宜蘭縣的日子。",
+        "mt": "Tôi nhớ những ngày ở huyện Nghi Lan.",
+        "ref": "Tôi nhớ những ngày ở huyện Nghi Lan."
+    },
+    {
+        "src": "新竹縣的生活品質很高。",
+        "mt": "Chất lượng cuộc sống ở huyện Tân Trúc rất cao.",
+        "ref": "Chất lượng cuộc sống ở huyện Tân Trúc rất cao."
+    },
+    {
+        "src": "我在雲林縣定居三年了。",
+        "mt": "Tôi đã sinh sống ở Vân Lâm ba năm.",
+        "ref": "Tôi đã định cư ở huyện Vân Lâm 3 năm rồi."
+    },
+    {
+        "src": "金門縣擁有完善的教育體系。",
+        "mt": "Đảo kim môn có hệ thống giáo dục hoàn chỉnh.",
+        "ref": "Huyện Kim Môn có hệ thống giáo dục hoàn chỉnh."
+    },
+    {
+        "src": "連江縣有悠久和多樣的歷史。",
+        "mt": "Luyện giang huyện có lịch sử lâu đời và đa dạng.",
+        "ref": "Huyện Liên Giang có một lịch sử lâu dài và đa dạng."
+    },
+    {
+        "src": "安徽省有什麼娛樂活動嗎?",
+        "mt": "安徽省有哪些娱乐活动？",
+        "ref": "Tỉnh An Huy có những hoạt động giải trí nào không?"
+    },
+    {
+        "src": "我們公司總部在福建省。",
+        "mt": "Trụ sở chính của công ty chúng tôi ở tỉnh phục kiến.",
+        "ref": "Trụ sở công ty chúng tôi tại tỉnh Phúc Kiến."
+    },
+    {
+        "src": "甘肅省擁有許多歷史建築。",
+        "mt": "Tỉnh cam túc có nhiều kiến trúc lịch sử.",
+        "ref": "Tỉnh Cam Túc có nhiều kiến trúc lịch sử."
+    },
+    {
+        "src": "廣東省的公共交通系統非常發達。",
+        "mt": "Hệ thống giao thông công cộng của tỉnh quảng đông rất phát triển.",
+        "ref": "Hệ thống giao thông công cộng của tỉnh Quảng Đông rất phát triển."
+    },
+    {
+        "src": "貴州省歷史博物館保存許多珍貴的文物。",
+        "mt": "Bảo tàng Lịch sử Quý Châu lưu giữ nhiều hiện vật quý giá.",
+        "ref": "Bảo tàng lịch sử của tỉnh Quý Châu lưu giữ nhiều hiện vật quý giá."
+    },
+    {
+        "src": "海南省的居民非常友善。",
+        "mt": "Đám dân trên đảo hái nam rất hiền lành.",
+        "ref": "Cư dân của tỉnh Hải Nam rất thân thiện."
+    },
+    {
+        "src": "河北省是一個安靜的地方。",
+        "mt": "Hà bắc là một tỉnh yên tĩnh.",
+        "ref": "Tỉnh Hà Bắc là một nơi yên tĩnh."
+    },
+    {
+        "src": "黑龍江省的夜市非常熱鬧。",
+        "mt": "Chợ đêm ở hắc long giang rất nhộn nhịp.",
+        "ref": "Chợ đêm ở tỉnh Hắc Long Giang rất nhộn nhịp."
+    },
+    {
+        "src": "河南省中心有一座噴泉。",
+        "mt": "河南省中心有一座噴泉。",
+        "ref": "Có một đài phun nước ở trung tâm tỉnh Hà Nam."
+    },
+    {
+        "src": "湖北省附近有一片森林。",
+        "mt": "Trong tỉnh hồ bắc, có một khu rừng.",
+        "ref": "Có một khu rừng gần tỉnh Hồ Bắc."
+    },
+    {
+        "src": "湖南省的生活成本較低。",
+        "mt": "Chi phí sinh hoạt ở tỉnh Hồ Nam tương đổi thấp.",
+        "ref": "Chi phí sinh hoạt ở tỉnh Hồ Nam thấp hơn."
+    },
+    {
+        "src": "我曾經去江蘇省開發鐵路。",
+        "mt": "Tôi đã từng đến tỉnh giang tô để ",
+        "ref": "Tôi từng đến tỉnh Giang Tô để phát triển đường sắt."
+    },
+    {
+        "src": "今天我想去江西省。",
+        "mt": "Hôm nay, tôi muốn đến Giang Tây.",
+        "ref": "Hôm nay tôi muốn đi tỉnh Giang Tây."
+    },
+    {
+        "src": "吉林省的海灘被國際帆板協會評為亞洲最好的海灘之一。",
+        "mt": "Bãi biển của tỉnh cát lâm được hiệp hội lướt ván buồm quốc tế đánh giá là một trong những bãi biển tốt nhất châu á.",
+        "ref": "Bãi biển của tỉnh Cát Lâm được Hiệp hội Lướt ván buồm quốc tế đánh giá là một trong những bãi biển tốt nhất châu Á."
+    },
+    {
+        "src": "遼寧省經濟持續穩定成長。",
+        "mt": " Kinh tế ở liêu ninh tiếp tục phát triển ổn định.",
+        "ref": "Kinh tế tỉnh Liêu Ninh tăng trưởng liên tục và ổn định."
+    },
+    {
+        "src": "越南文化節將於青海省舉行。",
+        "mt": "Lễ hội văn hóa Việt Nam sẽ được tổ chức tại tỉnh Thanh Hải.",
+        "ref": "Lễ hội văn hóa Việt Nam sẽ được tổ chức tại tỉnh Thanh Hải."
+    },
+    {
+        "src": "2019年11月陝西省交通事故死亡人數達657人。",
+        "mt": "Năm 2019, số tử vong do tai nạn giao thông ở tỉnh Thiểm Tây đã lên tới 657 người.",
+        "ref": "657 người chết vì tai nạn giao thông tại tỉnh Thiểm Tây trong tháng 11\/2019."
+    },
+    {
+        "src": "山西省巴士路線列表。",
+        "mt": "Danh sách tuyến ",
+        "ref": "Danh sách các tuyến xe buýt tại tỉnh Sơn Tây."
+    }
+]
