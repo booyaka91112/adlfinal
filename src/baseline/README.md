@@ -42,6 +42,7 @@ python use_gemini.py --input_path='../../dataset/final/valid.json' --output_path
 
 ### Eval Result
 
+### Google Gemini
 #### Sentence-level
 | prompt | BLEU | CHRF++ | COMET-22 | COMET-KIWI |
 | --- | --- | --- | --- | --- |
@@ -57,4 +58,11 @@ python use_gemini.py --input_path='../../dataset/final/valid.json' --output_path
 | 6-shot | 55.2 | 74.331 | 
 | 3-shot w/ edit| 58.8 | 79.16 |
 | 6-shot w/ edit| 60 | 79.965 |
+
+### Helsinki-nlp
+#### Terminology-level (data amount: 250)
+| prompt | Exact-match | CHRF++ | 
+| --- | --- | --- | 
+| w/o pretraining | 0.2 | 11.822 | 
+| with pretraining | 55.93 | 76.244 | 
 
