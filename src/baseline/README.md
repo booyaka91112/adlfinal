@@ -61,8 +61,15 @@ python use_gemini.py --input_path='../../dataset/final/valid.json' --output_path
 
 ### Helsinki-nlp
 #### Terminology-level (data amount: 250)
-| prompt | Exact-match | CHRF++ | 
+| method | Exact-match | CHRF++ | 
 | --- | --- | --- | 
 | w/o pretraining | 0.2 | 11.822 | 
 | with pretraining | 55.93 | 76.244 | 
+
+### mBart
+#### Terminology-level (data amount: 250)
+| method | Exact-match | CHRF++ | 
+| --- | --- | --- | 
+| w/o pretraining | 0.0 | 5.817 | 
+| with pretraining | 63.80 | 82.998 | 
 
