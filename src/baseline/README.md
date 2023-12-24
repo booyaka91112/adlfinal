@@ -148,3 +148,7 @@ python use_gemini.py --input_path='../../dataset/final/test/test40_bracket.json'
 | w/o finetuning | 0.0 | 5.817 | 
 | with finetuning | 63.80 | 82.998 | 
 
+#### Sentence-level (data amount: 1600)
+| prompt | BLEU | CHRF++ | COMET-22 | COMET-KIWI |
+| --- | --- | --- | --- | --- |
+| with finetuning | 0.059 | 23.412 | 0.64 | 0.50 |
