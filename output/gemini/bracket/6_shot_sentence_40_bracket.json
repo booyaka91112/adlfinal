@@ -1,0 +1,202 @@
+[
+    {
+        "src": "我來自{臺北市}。",
+        "mt": "Tôi đến từ {Đài Bắc}.",
+        "ref": "Tôi đến từ {thành phố Đài Bắc}."
+    },
+    {
+        "src": "我住在{新北市}。",
+        "mt": "Tôi sống tại {Thị ",
+        "ref": "Tôi sống ở {thành phố Tân Bắc}."
+    },
+    {
+        "src": "{桃園市}在哪裡?",
+        "mt": "{Thành phố Đào Viên} ở đâu?",
+        "ref": "{Thành phố Đào Viên} ở đâu?"
+    },
+    {
+        "src": "我在{臺中市}上班。",
+        "mt": "Tôi làm việc tại {thành phố Đài Trung}.",
+        "ref": "Tôi làm việc ở {thành phố Đài Trung}."
+    },
+    {
+        "src": "{臺南市}離這裡遠嗎?",
+        "mt": "{Đài Nam} cách ",
+        "ref": "{Thành phố Đài Nam} có xa đây không?"
+    },
+    {
+        "src": "你能告訴我{高雄市}的具體位置嗎?",
+        "mt": "Bạn có thể cho tôi biết vị trí cụ thể của {Thành phố Cao Hùng} không?",
+        "ref": "Bạn có thể cho tôi biết vị trí cụ thể của {thành phố Cao Hùng} không?"
+    },
+    {
+        "src": "{基隆市}有哪些著名的地標?",
+        "mt": "{Thành phố Keelung} có những địa danh nổi tiếng nào?",
+        "ref": "{Thành phố Cơ Long} có địa danh nổi tiếng nào?"
+    },
+    {
+        "src": "{嘉義市}的面積是多少?",
+        "mt": "Diện tích của {Thành phố 嘉義} là bao nhiêu?",
+        "ref": "Diện tích {thành phố Gia Nghĩa} là bao nhiêu?"
+    },
+    {
+        "src": "有多少人住在{新竹市}?",
+        "mt": "Có bao nhiêu người sống ở {Thành phố Tân Trúc}?",
+        "ref": "Có bao nhiêu người sinh sống ở {thành phố Tân Trúc}?"
+    },
+    {
+        "src": "您去過{澎湖縣}嗎？",
+        "mt": "Bạn đã đi {Huyện Bành Hồ} chưa?",
+        "ref": "Bạn đã đến {huyện Bành Hồ} chưa?"
+    },
+    {
+        "src": "我想了解{屏東縣}的歷史。",
+        "mt": "Tôi muốn tìm hiểu về lịch sử của {Tỉnh Bình Đông}.",
+        "ref": "Tôi muốn tìm hiểu lịch sử của {huyện Bình Đông}."
+    },
+    {
+        "src": "我很喜歡{彰化縣}的氣候。",
+        "mt": "Tôi rất thích khí hậu ở {Tỉnh Chương Hóa}.",
+        "ref": "Tôi rất thích khí hậu của {huyện Chương Hóa}."
+    },
+    {
+        "src": "{臺東縣}的夜生活怎麼樣？",
+        "mt": "Cuộc sống về đêm ở {Huyện Đài Đông} như thế nào?",
+        "ref": "Cuộc sống về đêm ở {huyện Đài Đông} như thế nào?"
+    },
+    {
+        "src": "{嘉義縣}有多少人口？",
+        "mt": "{Tỉnh Gia Nghĩa} có bao nhiêu dân số?",
+        "ref": "Dân số {huyện Gia Nghĩa} là bao nhiêu?"
+    },
+    {
+        "src": "{花蓮縣}安全嗎？",
+        "mt": "tỉnh {Hoa Liên} có an toàn không ?",
+        "ref": "{Huyện Hoa Liên} có an toàn không?"
+    },
+    {
+        "src": "我夢想住在{苗栗縣}。",
+        "mt": "Tôi mơ ước được sống ở {Tỉnh Miaoli}.",
+        "ref": "Tôi mơ ước được sống ở {huyện Miêu Lật}."
+    },
+    {
+        "src": "我在{南投縣}遇見她。",
+        "mt": "Tôi gặp cô ấy ở {Khuê Văn Các}.",
+        "ref": "Tôi gặp cô ấy ở thành phố Hà Nội."
+    },
+    {
+        "src": "我想念在{宜蘭縣}的日子。",
+        "mt": "Tôi nhớ những tháng ngày ở {Huyện Di Linh}.",
+        "ref": "Tôi nhớ những ngày ở {huyện Nghi Lan}."
+    },
+    {
+        "src": "{新竹縣}的生活品質很高。",
+        "mt": "Chất lượng sống tại {Tỉnh Tân Trúc} rất cao.",
+        "ref": "Chất lượng cuộc sống ở {huyện Tân Trúc} rất cao."
+    },
+    {
+        "src": "我在{雲林縣}定居三年了。",
+        "mt": "Tôi đã định cư ở {Tỉnh Vân Lâm} được 3 năm rồi.",
+        "ref": "Tôi đã định cư ở {huyện Vân Lâm} 3 năm rồi."
+    },
+    {
+        "src": "{金門縣}擁有完善的教育體系。",
+        "mt": "{Quận Kim Môn} có hệ thống giáo dục hoàn chỉnh.",
+        "ref": "{Huyện Kim Môn} có hệ thống giáo dục hoàn chỉnh."
+    },
+    {
+        "src": "{連江縣}有悠久和多樣的歷史。",
+        "mt": "{Huyện Liên Giang} có lịch sử lâu đời và đa dạng.",
+        "ref": "{Huyện Liên Giang} có một lịch sử lâu dài và đa dạng."
+    },
+    {
+        "src": "{安徽省}有什麼娛樂活動嗎?",
+        "mt": "{An Huy Tỉnh} có những hoạt động vui chơi giải trí nào?",
+        "ref": "{Tỉnh An Huy} có những hoạt động giải trí nào không?"
+    },
+    {
+        "src": "我們公司總部在{福建省}。",
+        "mt": "Trụ sở công ty chúng tôi ở {Tỉnh Phúc Kiến}.",
+        "ref": "Trụ sở công ty chúng tôi tại {tỉnh Phúc Kiến}."
+    },
+    {
+        "src": "{甘肅省}擁有許多歷史建築。",
+        "mt": "{Tỉnh Cam Túc} có nhiều công trình kiến trúc lịch sử.",
+        "ref": "{Tỉnh Cam Túc} có nhiều kiến trúc lịch sử."
+    },
+    {
+        "src": "{廣東省}的公共交通系統非常發達。",
+        "mt": "Hệ thống giao thông công cộng ở {Quảng Đông} rất phát triển.",
+        "ref": "Hệ thống giao thông công cộng của {tỉnh Quảng Đông} rất phát triển."
+    },
+    {
+        "src": "{貴州省}歷史博物館保存許多珍貴的文物。",
+        "mt": "Bảo tàng lịch sử {Quý Châu} lưu giữ nhiều di vật quý.",
+        "ref": "Bảo tàng lịch sử của {tỉnh Quý Châu} lưu giữ nhiều hiện vật quý giá."
+    },
+    {
+        "src": "{海南省}的居民非常友善。",
+        "mt": "Dân cư ở {tỉnh Hải Nam} rất thân thiện.",
+        "ref": "Cư dân của {tỉnh Hải Nam} rất thân thiện."
+    },
+    {
+        "src": "{河北省}是一個安靜的地方。",
+        "mt": "{Hà Bắc} một nơi thanh bình yên tĩnh.",
+        "ref": "{Tỉnh Hà Bắc} là một nơi yên tĩnh."
+    },
+    {
+        "src": "{黑龍江省}的夜市非常熱鬧。",
+        "mt": "Khu chợ đêm ở {Tỉnh Hắc Long Giang} rất náo nhiệt.",
+        "ref": "Chợ đêm ở {tỉnh Hắc Long Giang} rất nhộn nhịp."
+    },
+    {
+        "src": "{河南省}中心有一座噴泉。",
+        "mt": "Ở trung tâm {Tỉnh Hà Nam} có một đài phun nước.",
+        "ref": "Có một đài phun nước ở trung tâm {tỉnh Hà Nam}."
+    },
+    {
+        "src": "{湖北省}附近有一片森林。",
+        "mt": "Gần {Tỉnh Hồ Bắc} có một khu rừng.",
+        "ref": "Có một khu rừng gần {tỉnh Hồ Bắc}."
+    },
+    {
+        "src": "{湖南省}的生活成本較低。",
+        "mt": "Chi phí sinh hoạt ở {Hồ Nam} thấp.",
+        "ref": "Chi phí sinh hoạt ở {tỉnh Hồ Nam} thấp hơn."
+    },
+    {
+        "src": "我曾經去{江蘇省}開發鐵路。",
+        "mt": "Tôi đã từng đến {tỉnh Giang Tô} để phát triển đường sắt.",
+        "ref": "Tôi từng đến {tỉnh Giang Tô} để phát triển đường sắt."
+    },
+    {
+        "src": "今天我想去{江西省}。",
+        "mt": "Hôm nay tôi muốn đến {Tỉnh Giang Tây}.",
+        "ref": "Hôm nay tôi muốn đi {tỉnh Giang Tây}."
+    },
+    {
+        "src": "{吉林省}的海灘被國際帆板協會評為亞洲最好的海灘之一。",
+        "mt": "Bãi biển ở {Tỉnh Cát Lâm} được Hiệp hội Windsurfing Quốc tế đánh giá là một trong những bãi biển tốt nhất ở Châu Á.",
+        "ref": "Bãi biển của {tỉnh Cát Lâm} được Hiệp hội Lướt ván buồm quốc tế đánh giá là một trong những bãi biển tốt nhất châu Á."
+    },
+    {
+        "src": "{遼寧省}經濟持續穩定成長。",
+        "mt": "Nền kinh tế của {Liêu Ninh} tiếp tục tăng trưởng ổn định.",
+        "ref": "Kinh tế {tỉnh Liêu Ninh} tăng trưởng liên tục và ổn định."
+    },
+    {
+        "src": "越南文化節將於{青海省}舉行。",
+        "mt": "Lễ hội văn hóa Việt Nam được tổ chức tại {Thanh Hải Tỉnh}.",
+        "ref": "Lễ hội văn hóa Việt Nam sẽ được tổ chức tại {tỉnh Thanh Hải}."
+    },
+    {
+        "src": "2019年11月{陝西省}交通事故死亡人數達657人。",
+        "mt": "Theo số liệu của Sở Giao thông Công chính {Tỉnh Thiểm Tây}, số người chết vì tai nạn giao thông trong tháng 11 năm 2019 đã lên tới 657.",
+        "ref": "657 người chết vì tai nạn giao thông tại {tỉnh Thiểm Tây} trong tháng 11\/2019."
+    },
+    {
+        "src": "{山西省}巴士路線列表。",
+        "mt": "Danh sách các tuyến ",
+        "ref": "Danh sách các tuyến xe buýt tại {tỉnh Sơn Tây}."
+    }
+]
