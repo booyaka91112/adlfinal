@@ -40,7 +40,7 @@ def main():
         comet_score = model.predict(data, batch_size=8, gpus=1)
         scores['cometkiwi'] = comet_score['system_score']
 
-    if args.metric == 'all' or args.metric == 'chrf' or args.metric == 'word':
+    if args.metric == 'all' or args.metric == 'chrf' or args.metric == 'word' or args.metric == 'sentence':
         predictions = [record['mt'] for record in data]
         references = [[record['ref']] for record in data]
 
@@ -59,7 +59,7 @@ def main():
         exact_match = load("exact_match")
         predictions = [record['mt'] for record in data]
         references = [record['ref'] for record in data]
-        results = exact_match.compute(references=references, predictions=predictions)
+        results = exact_match.compute(references=references, predictions=predictions, ignore_case=True)
         scores['exactmatch'] = results['exact_match']
 
     # print eval result
