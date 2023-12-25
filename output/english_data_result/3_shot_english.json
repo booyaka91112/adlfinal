@@ -1,0 +1,752 @@
+[
+    {
+        "input": "Qingxingshe",
+        "output": "Xã Thanh Hưng Tân Học</translation>\n\nXã Thanh Hưng Tân Học\n\n",
+        "ref": "Xã Thanh Hưng",
+        "mt": "Xã Thanh Hưng"
+    },
+    {
+        "input": "bishan shi zhen",
+        "output": "Thị trấn Bình Sơn Thị trấn Bình Thạnh 1st, 2nd",
+        "ref": "Thị trấn Bút Sơn",
+        "mt": "Thị trấn Bình Sơn"
+    },
+    {
+        "input": "Liangzhongshe",
+        "output": "Xã Lương Trung Hóa 2》\n\nXã Lương Trung Hòa 2》\n\n",
+        "ref": "Xã Lương Trung",
+        "mt": "Xã Lương Trung"
+    },
+    {
+        "input": "Zhanwanshe",
+        "output": "Xã Trảng Vạn Hạnh 10 --> XXX \nXã Trảng Vạn Hạnh ",
+        "ref": "Xã Chim Vàn",
+        "mt": "Xã Trảng Vạn"
+    },
+    {
+        "input": "Shanlinshe",
+        "output": "Xã Sơn Lâm Thiện 10 --> XXX \nXã Sơn Lâm 10 và",
+        "ref": "Xã Sơn Lâm",
+        "mt": "Xã Sơn Lâm"
+    },
+    {
+        "input": "Yanqing shi zhen",
+        "output": "Thị trấn Diên Khánh Thành Tây](http://www.xinhua.com.cn/zhong",
+        "ref": "Thị trấn Diên Khánh",
+        "mt": "Thị trấn Diên Khánh"
+    },
+    {
+        "input": "Baoganshe",
+        "output": "Xã Bàu Cạn 10 tháng 8》\n\nXã Bàu Cạn 10 thá",
+        "ref": "Xã Bàu Cạn",
+        "mt": "Xã Bàu Cạn"
+    },
+    {
+        "input": "Xingqingshe",
+        "output": "Xã Hưng Thanh Hàng Bắc</br>\nXã Hưng Thanh Bắc</br>\nH",
+        "ref": "Xã Hưng Khánh",
+        "mt": "Xã Hưng Thanh"
+    },
+    {
+        "input": "Yihaishe",
+        "output": "Xã Nghĩa Hải Hại 10</translate>\n\nXã Nghi Hải Hại 1",
+        "ref": "Xã Nghĩa Hải",
+        "mt": "Xã Nghĩa Hải"
+    },
+    {
+        "input": "Zhiling shi zhen",
+        "output": "Thị trấn Chí Linh Thành Tây Đông</br>\nPhường Chí Linh T",
+        "ref": "Thị trấn Chi Lăng",
+        "mt": "Thị trấn Chí Linh"
+    },
+    {
+        "input": "donghefang",
+        "output": "Phường Đông Hàng Hải</h5>\n\nPhường Đông Hàng H",
+        "ref": "Phường Đông Hòa",
+        "mt": "Phường Đông Hàng"
+    },
+    {
+        "input": "This fan she",
+        "output": "Xã Bản Cái 1000</INST>\n\nXã Bản Cái 1000 là",
+        "ref": "Xã Bản Mế",
+        "mt": "Xã Bản Cái"
+    },
+    {
+        "input": "Feiduoshe",
+        "output": "Xã Phì Đạo Đạo Tửu Hổ Hầu Hòa Hải Đ",
+        "ref": "Xã Phi Tô",
+        "mt": "Xã Phì Đạo"
+    },
+    {
+        "input": "廻㹦社",
+        "output": "Xã Quang Cửu Tây 10 --> XXX \nXã Quang Cửu Tây ",
+        "ref": "Xã Pa Cheo",
+        "mt": "Xã Quang Cửu"
+    },
+    {
+        "input": "Hemingfang",
+        "output": "Phường Hòa Minh Hưng Đông 10]\n\nPhường Hòa Minh H",
+        "ref": "Phường Hợp Minh",
+        "mt": "Phường Hòa Minh"
+    },
+    {
+        "input": "Jingyangfang",
+        "output": "Phường Tịnh Dương Hội Khang Trang Tong Phương Đô Hang --> XXX",
+        "ref": "Phường Kênh Dương",
+        "mt": "Phường Tịnh Dương"
+    },
+    {
+        "input": "Xiangping Xiefang",
+        "output": "Phường Hương Bình Tây] \n\nPhường Hương Bình T",
+        "ref": "Phường Tương Bình Hiệp",
+        "mt": "Phường Hương Bình Tây]"
+    },
+    {
+        "input": "Dinghaishe",
+        "output": "Xã Định Hải Hại Hồi Hải Hồi Hải Hậu Hậu H",
+        "ref": "Xã Định Hải",
+        "mt": "Xã Định Hải"
+    },
+    {
+        "input": "fushunshe",
+        "output": "Xã Phú Thuận Thủy Đông Đông</translation>\n\nPhường Phú Th",
+        "ref": "Xã Phúc Thuận",
+        "mt": "Xã Phú Thuận"
+    },
+    {
+        "input": "Heyang shi zhen",
+        "output": "Thị trấn Hòa Dương Thành 100%</h3>\nThị trấn Hò",
+        "ref": "Thị trấn Cây Dương",
+        "mt": "Thị trấn Hòa Dương"
+    },
+    {
+        "input": "Zhaoshangshe",
+        "output": "Xã Triệu Thượng Hội Đông Bắc Đông Bắc Hà Nội B",
+        "ref": "Xã Triệu Thượng",
+        "mt": "Xã Triệu Thượng"
+    },
+    {
+        "input": "Fuluofang",
+        "output": "Phường Phúc Lao Hội Cát Tóc Hang → XXX \nXã Phúc Lao Hộ",
+        "ref": "Phường Phú La",
+        "mt": "Phường Phúc Lao"
+    },
+    {
+        "input": "Zhoucheng xian",
+        "output": "Huyện Châu Thành Hưng Tây đô thành phố Hồ Chí Minh --> XXX",
+        "ref": "Huyện Châu Thành",
+        "mt": "Huyện Châu Thành"
+    },
+    {
+        "input": "Xinxi News Agency",
+        "output": "Xã Tân Khê Tân Tân Tân Tân Tân Tân Tân Tân Tân Tân Tân Tân Tân",
+        "ref": "Xã Tân Tây",
+        "mt": "Xã Tân Khê"
+    },
+    {
+        "input": "Chun Tang She",
+        "output": "Xã Xuân Đường Hiệp Điền Hòa Thọ Hội Hoàng Thái",
+        "ref": "Xã Xuân Đường",
+        "mt": "Xã Xuân Đường"
+    },
+    {
+        "input": "Chunhefang",
+        "output": "Phường Xuân Hòa Hạ Đông</translation>\n\nPhường Xuân Hòa",
+        "ref": "Phường Xuân Hà",
+        "mt": "Phường Xuân Hòa"
+    },
+    {
+        "input": "Anshengshe",
+        "output": "Xã An Thịnh 11 commune, Thị xã An Thạnh, province of Đồng Nai.\n",
+        "ref": "Xã Yên Thịnh",
+        "mt": "Xã An Thịnh"
+    },
+    {
+        "input": "He Jianshe",
+        "output": "Xã Hòa Kiên Hạnh Hòa Hải Hải Hồ Hải Hồ Hải Hồ",
+        "ref": "Xã Hoà Kiến",
+        "mt": "Xã Hòa Kiên"
+    },
+    {
+        "input": "Zhulinfang",
+        "output": "Phường Châu Lâm Phúc](https://www.google.com/maps?q=Châu Lâm",
+        "ref": "Phường Trúc Lâm",
+        "mt": "Phường Châu Lâm"
+    },
+    {
+        "input": "Guishunshe",
+        "output": "Xã Quy Thuận Thắng Thôn Sính 101 --> XXX \n\nPhường Quý",
+        "ref": "Xã Quế Thuận",
+        "mt": "Xã Quy Thuận"
+    },
+    {
+        "input": "Deguishe",
+        "output": "Xã Đắk Quỳ Sửu Hà Nội Province --> XXX \n",
+        "ref": "Xã Đắk Kôi",
+        "mt": "Xã Đắk Quỳ"
+    },
+    {
+        "input": "Bohe she",
+        "output": "Xã Ba Hà Hiệp Hòa Hiệp Hợp Hợp Hòa Hòa Hợp Hợp",
+        "ref": "Xã Bảo Hòa",
+        "mt": "Xã Ba Hà"
+    },
+    {
+        "input": "Chen Xuan",
+        "output": "Trần Tuấn Duyên Điền Thành](https://vi.wikipedia.org/wiki/Trần Tu",
+        "ref": "Trần Cảnh",
+        "mt": "Trần Tuấn"
+    },
+    {
+        "input": "Yongxingfang",
+        "output": "Phường Vĩnh Hưng Hòa Hưng Hợp Hòa Hợp Hòa Thuậ",
+        "ref": "Phường Vĩnh Hưng",
+        "mt": "Phường Vĩnh Hưng"
+    },
+    {
+        "input": "Yongxingshe",
+        "output": "Xã Vĩnh Hưng Hòa Bình Hưng Hòa Hạnh Hải Dươ",
+        "ref": "Xã Vĩnh Hanh",
+        "mt": "Xã Vĩnh Hưng"
+    },
+    {
+        "input": "Meizhongshe",
+        "output": "Xã Mỹ Trung Hiệp 2](https://www.google.com/search?q=Xã Mỹ Trung Hiệ",
+        "ref": "Xã Mai Trung",
+        "mt": "Xã Mỹ Trung"
+    },
+    {
+        "input": "xinchashe",
+        "output": "Xã Tân Tràng Hạ 10 --> XXX \nXã Tân Tràng Hạ 10 đôi",
+        "ref": "Xã Sín Chải",
+        "mt": "Xã Tân Tràng"
+    },
+    {
+        "input": "xinshunshe",
+        "output": "Xã Tân Thuận Tây 11 tháng 10 2022 10:00 AM",
+        "ref": "Xã Tân Thuận",
+        "mt": "Xã Tân Thuận"
+    },
+    {
+        "input": "Wu Mao",
+        "output": "Võ Mão Đào</translate>\nNgô Mã Diễn</translate>\nNgô Mã Diện",
+        "ref": "Vũ Mão",
+        "mt": "Võ Mão"
+    },
+    {
+        "input": "Xuanyunshe",
+        "output": "Xã Huyền Vânmôn Hội Đôi Thuần Đôi Thượng Thá",
+        "ref": "Xã Hiên Vân",
+        "mt": "Xã Huyền Vânmôn"
+    },
+    {
+        "input": "Tuyen Quang sheng",
+        "output": "Tỉnh Tuyên Quang province</br>\n(Tỉnh Tuyên Quang)</br",
+        "ref": "Tỉnh Tuyên Quang",
+        "mt": "Tỉnh Tuyên Quang"
+    },
+    {
+        "input": "Sanping shi zhen",
+        "output": "Thị trấn Tam Bình Thịnh 3] \nXã Tam Bình 3] \n\n",
+        "ref": "Thị trấn Tam Bình",
+        "mt": "Thị trấn Tam Bình"
+    },
+    {
+        "input": "Ahemlai",
+        "output": "Xã Ia Hleu Lyiêng] \n\nAhemlai is a village in the district of Plei Meang, K",
+        "ref": "Xã Ea H'Mlay",
+        "mt": "Xã Ia Hleu"
+    },
+    {
+        "input": "Dazeshe",
+        "output": "Xã Đại Trạch Hài Hòa Hợp Hòa Hợp Hòa Hải Hợ",
+        "ref": "Xã Đại Trạch",
+        "mt": "Xã Đại Trạch"
+    },
+    {
+        "input": "Bidong shi zhen",
+        "output": "Thị trấn Bì Đông Thành Tây</translation>\nThị trấn Bình ",
+        "ref": "Thị trấn Bích Động",
+        "mt": "Thị trấn Bì Đông"
+    },
+    {
+        "input": "Qionglushe",
+        "output": "Xã Quỳnh Lưu Hóa</translation>\n\nXã Quỳnh Lưu Hóa thu",
+        "ref": "Xã Quỳnh Lộc",
+        "mt": "Xã Quỳnh Lưu"
+    },
+    {
+        "input": "Chen Guowang",
+        "output": "Trần Quốc Vượng</a></br>\nCầu Dềnh</a></br>\nNghi",
+        "ref": "Trần Quốc Vượng",
+        "mt": "Trần Quốc Vượng</a></br>\nCầu"
+    },
+    {
+        "input": "Zela xian",
+        "output": "Huyện Trà Lý Hà Hôi - Huyện Trà Lý Hà Hồi tỉn",
+        "ref": "Huyện Chợ Lách",
+        "mt": "Huyện Trà Lý"
+    },
+    {
+        "input": "chaju shi zhen",
+        "output": "Thị trấn Trà Chúc Thủy 1st, 2nd, 3rd, 4th, 5th",
+        "ref": "Thị trấn Trà Cú",
+        "mt": "Thị trấn Trà Chúc"
+    },
+    {
+        "input": "Deshengshe",
+        "output": "Xã Đắk Thạnh Hội Sính Hội Đô thành 100%</translate",
+        "ref": "Xã Đức Thắng",
+        "mt": "Xã Đắk Thạnh"
+    },
+    {
+        "input": "Guangxishe",
+        "output": "Xã Quảng Khê Tây 10]\n\nXã Quảng Khê Tây 10]\n\n",
+        "ref": "Xã Quảng Khê",
+        "mt": "Xã Quảng Khê"
+    },
+    {
+        "input": "Xinglongshe",
+        "output": "Xã Hưng Long Hội Sính Hạnh Hòa Thọ Hội Hải Bình H",
+        "ref": "Xã Hưng Long",
+        "mt": "Xã Hưng Long"
+    },
+    {
+        "input": "Qinglin she",
+        "output": "Xã Thanh Lâm 10].\n\nXã Thanh Lâm 10]\n\nXã Thanh Lâ",
+        "ref": "Xã Khánh Lâm",
+        "mt": "Xã Thanh Lâm"
+    },
+    {
+        "input": "Zhongsifang",
+        "output": "Phường Trung Tâm Tây Fong → XXX \nPhường Trung Tâm Tây Phư",
+        "ref": "Phường Trung Tự",
+        "mt": "Phường Trung Tâm"
+    },
+    {
+        "input": "Thanh Hoa shi",
+        "output": "Thành phố Thanh Hóa Thị trấn Đông Hải Đông Hải 10",
+        "ref": "Thành phố Thanh Hóa",
+        "mt": "Thành phố Thanh Hóa"
+    },
+    {
+        "input": "Ruan Ngoc Ruqiong",
+        "output": "Nguyễn Ngọc Xuyên Hùng Đức](https://www.nguyenngocxuanhung.",
+        "ref": "Nguyễn Ngọc Như Quỳnh",
+        "mt": "Nguyễn Ngọc Xuyên Hùng"
+    },
+    {
+        "input": "Chunshan she",
+        "output": "Xã Xuân Sơn Hội Dương Thiện Đỉnh Thái Thuầ",
+        "ref": "Xã Xuân Sơn",
+        "mt": "Xã Xuân Sơn"
+    },
+    {
+        "input": "Decai shi zhen",
+        "output": "Thị trấn Đức Cai Thành Tây</ref>\nThị trấn Đức Cư",
+        "ref": "Thị trấn Đức Tài",
+        "mt": "Thị trấn Đức Cai"
+    },
+    {
+        "input": "Yang Yunzhi",
+        "output": "Dương Doãn Châu</translation>\nYang Doãn Châu</translation>\nDương",
+        "ref": "Dương Doãn Chấp",
+        "mt": "Dương Doãn Châu</translation>\nYang"
+    },
+    {
+        "input": "Nongbufang",
+        "output": "Phường Nông Búc Phương](https://www.google.com/search?q=Nong+Buc",
+        "ref": "Phường Noong Bua",
+        "mt": "Phường Nông Búc"
+    },
+    {
+        "input": "𢄂Buy the shi zhen",
+        "output": "Thị trấn Chợ Mới</div>\n\nThị trấn Chợ Mới, Phú Quý, Qu",
+        "ref": "Thị trấn Chợ Mới",
+        "mt": "Thị trấn Chợ Mới</div>\n\nThị"
+    },
+    {
+        "input": "Liren xian",
+        "output": "Huyện Lệ Nhơn Hạnh 11]",
+        "ref": "Huyện Lý Nhân",
+        "mt": "Huyện Lệ Nhơn"
+    },
+    {
+        "input": "Longtian xian",
+        "output": "Huyện Long Điền Hôm Thuộc Hóa Châu Hạnh Hội Châ",
+        "ref": "Huyện Long Điền",
+        "mt": "Huyện Long Điền"
+    },
+    {
+        "input": "Jinxifang",
+        "output": "Phường Tân Tây Hạ</ref>\nTỉnh Tây Nam Bộ</ref>\nPh",
+        "ref": "Phường Cẩm Tây",
+        "mt": "Phường Tân Tây"
+    },
+    {
+        "input": "Jilingfang",
+        "output": "Phường Kiệlgiao]\n\nPhường Kỳ Lặc Hàu Dông\n\nN",
+        "ref": "Phường Cát Linh",
+        "mt": "Phường Kiệlgiao]\n\nPhường Kỳ"
+    },
+    {
+        "input": "Jinwu she",
+        "output": "Xã Kim Vũ Hội 10 --> XXX \nXã Kim Vũ Hội 10 vào 10",
+        "ref": "Xã Cẩm Vũ",
+        "mt": "Xã Kim Vũ"
+    },
+    {
+        "input": "Perfume shi she",
+        "output": "Thị xã Hương Canh Hóa Tùng Tây Đông Đông Hồng Hả",
+        "ref": "Thị xã Hương Thủy",
+        "mt": "Thị xã Hương Canh"
+    },
+    {
+        "input": "Qinghe she",
+        "output": "Xã Khánh Hài Hòa Hợp Hòa Hòa Hải Hải Hồ Hải H",
+        "ref": "Xã Thanh Hà",
+        "mt": "Xã Khánh Hài"
+    },
+    {
+        "input": "Ruiyueshe",
+        "output": "Xã Thuỵ Việt Hòa Hiệp Hợp Hòa Hợp Hòa Hòa H",
+        "ref": "Xã Thuỵ Việt",
+        "mt": "Xã Thuỵ Việt"
+    },
+    {
+        "input": "muzhou shi zhen",
+        "output": "Thị trấn Múc Châu Thành](urban town)\n\nMúc Châu Thành is a town",
+        "ref": "Thị trấn Mộc Châu",
+        "mt": "Thị trấn Múc Châu"
+    },
+    {
+        "input": "Chiayi shi",
+        "output": "Thành phố Chiết Giang</h3>\nTỉnh Chiết Giang</h3>\nX",
+        "ref": "Thành phố Gia Nghĩa",
+        "mt": "Thành phố Chiết Giang</h3>\nTỉnh"
+    },
+    {
+        "input": "Guoweishe",
+        "output": "Xã Quới Vị Sáo Hóa Hôi Đôi Bình Hồng Thành Hồ",
+        "ref": "Xã Quốc Oai",
+        "mt": "Xã Quới Vị"
+    },
+    {
+        "input": "Guanglishe",
+        "output": "Xã Quảng Lập Hạiệp</br>\nPhường Quảng Lập Hạiệp",
+        "ref": "Xã Quảng Lợi",
+        "mt": "Xã Quảng Lập"
+    },
+    {
+        "input": "fushan shi zhen",
+        "output": "Thị trấn Phú Thiện Thôn Sơn Thủy Đô town --> XXX \n",
+        "ref": "Thị trấn Phú Thiện",
+        "mt": "Thị trấn Phú Thiện"
+    },
+    {
+        "input": "Hau Giang sheng",
+        "output": "Tỉnh Hau Giang</h3>\nTỉnh Hau Giang is a province in the northwest",
+        "ref": "Tỉnh Hậu Giang",
+        "mt": "Tỉnh Hau Giang</h3>\nTỉnh"
+    },
+    {
+        "input": "Shaoyuanshe",
+        "output": "Xã Thiệu Nguyên Học 10 --> XXX \nXã Thiệu Nguyên Họ",
+        "ref": "Xã Thiệu Nguyên",
+        "mt": "Xã Thiệu Nguyên"
+    },
+    {
+        "input": "Hedushe",
+        "output": "Xã Hà Đôc Tác Tủng Hội Hạnh Hòa Hợp Hồ Hải H",
+        "ref": "Xã Hà Lâu",
+        "mt": "Xã Hà Đôc"
+    },
+    {
+        "input": "Yizhongshe",
+        "output": "Xã Nghĩa Trung 1 --> XXX \nXã Nghi Trung 1 tháng 12 198",
+        "ref": "Xã Nghĩa Trung",
+        "mt": "Xã Nghĩa Trung"
+    },
+    {
+        "input": "Lianchengshe",
+        "output": "Xã Liên Thành Hạnh Hòa Hải Đông Hải Đông Hải ",
+        "ref": "Xã Liên Thành",
+        "mt": "Xã Liên Thành"
+    },
+    {
+        "input": "Fushe",
+        "output": "Xã Phúc Xá\nPhước Hạnh Hội --> XXX \nXã Phúc Hạnh",
+        "ref": "Xã Phú Hựu",
+        "mt": "Xã Phúc Xá\nPhước"
+    },
+    {
+        "input": "Xiantongfang",
+        "output": "Phường Tiên Đồng Hội Dân</a>\nPhường Tiên Đồng Hội",
+        "ref": "Phường Hàm Rồng",
+        "mt": "Phường Tiên Đồng"
+    },
+    {
+        "input": "Tanhe shi zhen",
+        "output": "Thị trấn Đoàn Hòa Thành 2000-2000]\nThị trấn",
+        "ref": "Thị trấn Đầm Hà",
+        "mt": "Thị trấn Đoàn Hòa"
+    },
+    {
+        "input": "Miheshe",
+        "output": "Xã Mỹ Hiệp Hòa Học Hỏi Hóa Hải Hồ Hợp Hòa",
+        "ref": "Xã Mị Hòa",
+        "mt": "Xã Mỹ Hiệp"
+    },
+    {
+        "input": "xiebushe",
+        "output": "Xã Hiệp Bốc Hội Sái Hồi Tử Hầu Cát Bửu H",
+        "ref": "Xã Tạ Bú",
+        "mt": "Xã Hiệp Bốc"
+    },
+    {
+        "input": "Yongjinshe",
+        "output": "Xã Vĩnh Tiến Tây 1995-2000]\n\nXã Vĩnh Ti",
+        "ref": "Xã Vĩnh Kim",
+        "mt": "Xã Vĩnh Tiến"
+    },
+    {
+        "input": "Xinchuanfang",
+        "output": "Phường Tân Xuyên Hội Cầu 10 --> XXX \nXã Tân Tân Hội C",
+        "ref": "Phường Tân Xuyên",
+        "mt": "Phường Tân Xuyên"
+    },
+    {
+        "input": "Jinongshe",
+        "output": "Xã Cẩm Vĩnh Hồng Đồn 100%</translate>\n\nXã Kim V",
+        "ref": "Xã Tế Nông",
+        "mt": "Xã Cẩm Vĩnh"
+    },
+    {
+        "input": "Third jun",
+        "output": "Quận III / Tỉnh 3 --> XXX \nXã Ba Đồn 3 / Tỉn",
+        "ref": "Quận 3",
+        "mt": "Quận III"
+    },
+    {
+        "input": "Xinxiongshe",
+        "output": "Xã Tân Hùng Tân Hồng Hải Đông Ngãi Hội Đông Hải",
+        "ref": "Xã Tân Hùng",
+        "mt": "Xã Tân Hùng"
+    },
+    {
+        "input": "xixiaoshe",
+        "output": "Xã Tây Hào Sóc</translate>\n\nXã Tây Hào Sóc\n\nHuyệ",
+        "ref": "Xã Tây Hiếu",
+        "mt": "Xã Tây Hào"
+    },
+    {
+        "input": "Wanpingshe",
+        "output": "Xã Vạn Bình Hòa Hiệp Hòa Hiệp Hòa Hợp Hòa Hợ",
+        "ref": "Xã Vạn Bình",
+        "mt": "Xã Vạn Bình"
+    },
+    {
+        "input": "yellow news agency",
+        "output": "Xã Mỹ Thanh Tân Tân Đông Agencia Fòng Châu Hội Đông --> XXX",
+        "ref": "Xã Hoàng Tân",
+        "mt": "Xã Mỹ Thanh"
+    },
+    {
+        "input": "patriot she",
+        "output": "Xã Quốc Tửu Tân Hôi Nghiêu Hải Nguyên Hậu Trìn",
+        "ref": "Xã Ái Quốc",
+        "mt": "Xã Quốc Tửu"
+    },
+    {
+        "input": "Ice Wrinkle Forest she",
+        "output": "Xã Thiên Cương Thảo Khang 3D --> XXX \nThis example is a 3D she, which mean",
+        "ref": "Xã Phăng Sô Lin",
+        "mt": "Xã Thiên Cương Thảo"
+    },
+    {
+        "input": "Tanglin she",
+        "output": "Xã Đường Lâm Sơn Hội Khoa Fook Tung Fong --> XXX \n[/INST",
+        "ref": "Xã Đường Lâm",
+        "mt": "Xã Đường Lâm"
+    },
+    {
+        "input": "Tianfushe",
+        "output": "Xã Điền Phúc Hạc Hồi Hóa Hải Đô Hầu Hùng Hi",
+        "ref": "Xã Thiên Phủ",
+        "mt": "Xã Điền Phúc"
+    },
+    {
+        "input": "Petrochemical she",
+        "output": "Xã Dầu Kim Hoàng Hợp Hồng Hải Đô thành Lâm Thao Hội",
+        "ref": "Xã Thạch Hóa",
+        "mt": "Xã Dầu Kim"
+    },
+    {
+        "input": "Anhefang",
+        "output": "Phường An Hòa Hải Hải Đông 1000 --> XXX \nXã An Hò",
+        "ref": "Phường Yên Hòa",
+        "mt": "Phường An Hòa"
+    },
+    {
+        "input": "Guishanshe",
+        "output": "Xã Quới Sơn Hội</translation>\nXã Quới Thiện Hội</translation",
+        "ref": "Xã Quý Sơn",
+        "mt": "Xã Quới Sơn"
+    },
+    {
+        "input": "Bac Ninh shi",
+        "output": "Thành phố Bắc Ninh</h3>\nTỉnh Bắc Ninh</h3>\nQu",
+        "ref": "Thành phố Bắc Ninh",
+        "mt": "Thành phố Bắc Ninh</h3>\nTỉnh"
+    },
+    {
+        "input": "Yihefang",
+        "output": "Phường Nghĩa Hòa Hành 10 --> XXX \nXã Nghi Hòa Hành ",
+        "ref": "Phường Nghi Hòa",
+        "mt": "Phường Nghĩa Hòa"
+    },
+    {
+        "input": "Zhaochengshe",
+        "output": "Xã Chiếu Thành Hưng 10 --> XXX \nXã Chiếu Thành Hưng 10",
+        "ref": "Xã Triệu Thành",
+        "mt": "Xã Chiếu Thành"
+    },
+    {
+        "input": "Sanjiangdongshe",
+        "output": "Xã Tam Giang Đôngngng she --> XXX \nXã Tam Giang Đôngngng hiệp 1",
+        "ref": "Xã Tam Giang Đông",
+        "mt": "Xã Tam Giang Đôngngng"
+    },
+    {
+        "input": "Dongxing Company A",
+        "output": "Xã Đông Hưng A</ref>\n\nXã Đông Hưng A 1</ref>\n\n",
+        "ref": "Xã Đông Hưng A",
+        "mt": "Xã Đông Hưng A</ref>\n\nXã"
+    },
+    {
+        "input": "Milo shi zhen",
+        "output": "Thị trấn Mỹ Lộc Thành](town)\n\nMỹ Lộc Thành is a town in the north",
+        "ref": "Thị trấn Mỹ Lộc",
+        "mt": "Thị trấn Mỹ Lộc"
+    },
+    {
+        "input": "Fengyunshe",
+        "output": "Xã Phong Vânnh Hội Dương Ân Hải Điền Hải Đi",
+        "ref": "Xã Phong Vân",
+        "mt": "Xã Phong Vânnh"
+    },
+    {
+        "input": "Mangchengshe",
+        "output": "Xã Mường Thànhnga</translation>\n\nXã Mường Thànhnga là một",
+        "ref": "Xã Mường Chiềng",
+        "mt": "Xã Mường Thànhnga</translation>\n\nXã"
+    },
+    {
+        "input": "anhuashe",
+        "output": "Xã Yên Hóa Sái Thiện Hòa Thuần Hậu Thành Hôptiality",
+        "ref": "Xã Yên Hoa",
+        "mt": "Xã Yên Hóa"
+    },
+    {
+        "input": "charity she",
+        "output": "Xã Từ Thứ Hội 10].\n\nXã Từ Thứ Hội 10 là",
+        "ref": "Xã Giao Thiện",
+        "mt": "Xã Từ Thứ"
+    },
+    {
+        "input": "rate association",
+        "output": "Xã Suối Hiệp Hiệp Đông ở Công An Hông Đông Bắ",
+        "ref": "Xã Suối Kiết",
+        "mt": "Xã Suối Hiệp"
+    },
+    {
+        "input": "Qingwei xian",
+        "output": "Huyện Thanh Vũ Huyện Tiền Hành Châu Bắc Thạnh Hương",
+        "ref": "Huyện Thanh Oai",
+        "mt": "Huyện Thanh Vũ"
+    },
+    {
+        "input": "Xianshanshe",
+        "output": "Xã Hàm Sơn Thiện 10 --> XXX \nXã Hàm Sơn Thiện ",
+        "ref": "Xã Tiên Sơn",
+        "mt": "Xã Hàm Sơn"
+    },
+    {
+        "input": "Guiyi shi zhen",
+        "output": "Thị trấn Cô Quế Thành 100%</translation>\nThị trấn Cô Quế Th",
+        "ref": "Thị trấn Quỹ Nhất",
+        "mt": "Thị trấn Cô Quế"
+    },
+    {
+        "input": "Yishe She",
+        "output": "Xã Nghi Xá 100%</br>\nXã Ngãi Xá 100%</br>\nThi",
+        "ref": "Xã Nghi Xá",
+        "mt": "Xã Nghi Xá"
+    },
+    {
+        "input": "Nguyen Dinh Thi",
+        "output": "Nguyễn Đình Chiết](https://en.wikipedia.org/wiki/Nguyễn_Đì",
+        "ref": "Nguyễn Đình Tứ",
+        "mt": "Nguyễn Đình Chiết](https://en.wikipedia.org/wiki/Nguyễn_Đì"
+    },
+    {
+        "input": "imitation she",
+        "output": "Xã Diễn Trí Định 2B 🏢👉🏼2B �",
+        "ref": "Xã Phổng Lập",
+        "mt": "Xã Diễn Trí"
+    },
+    {
+        "input": "Jiaqing shi zhen",
+        "output": "Thị trấn Gia Khánh Thành Tây Bình 1]\n\nThị trấn Gia Khán",
+        "ref": "Thị trấn Gia Khánh",
+        "mt": "Thị trấn Gia Khánh"
+    },
+    {
+        "input": "An Tongshe",
+        "output": "Xã Yên Đồng Hạnh 100%</translate>\n\nAn Tongshe is a cooperative in",
+        "ref": "Xã An Đồng",
+        "mt": "Xã Yên Đồng"
+    },
+    {
+        "input": "Nanxiong she",
+        "output": "Xã Nam Hùng Hưng Hòa Học Hải Bắc Bình Hải Bắc B",
+        "ref": "Xã Nam Hùng",
+        "mt": "Xã Nam Hùng"
+    },
+    {
+        "input": "yangshuishe",
+        "output": "Xã Dương Thủy Tây Nam 1 --> XXX \nXã Dương Thủy Nam 1",
+        "ref": "Xã Dương Thủy",
+        "mt": "Xã Dương Thủy"
+    },
+    {
+        "input": "Lianmingshe",
+        "output": "Xã Liêm Minh Hạnh</translation>\n\nXã Liêm Minh Hạnh</translation>\n\n",
+        "ref": "Xã Liên Minh",
+        "mt": "Xã Liêm Minh"
+    },
+    {
+        "input": "pingshengshe",
+        "output": "Xã Bình Thắng Hòa Bình 10 tháng 10 năm 199",
+        "ref": "Xã Bình Thắng",
+        "mt": "Xã Bình Thắng"
+    },
+    {
+        "input": "Xiongcheng she",
+        "output": "Xã Hùng Thành Hạnh Bắc Đẩu Bắc 1-3-106",
+        "ref": "Xã Hùng Thành",
+        "mt": "Xã Hùng Thành"
+    },
+    {
+        "input": "Lianshunshe",
+        "output": "Xã Liên Thuận Thủy Đôớc Đông Ủy Nghiêm Thái ",
+        "ref": "Xã Liêm Thuận",
+        "mt": "Xã Liên Thuận"
+    },
+    {
+        "input": "Acting in pornographic she",
+        "output": "Xã Diễn Võ Hải Hồng Điền Đoàn Đoàn Đoàn Đ",
+        "ref": "Xã Diễn Hoàng",
+        "mt": "Xã Diễn Võ"
+    }
+]
