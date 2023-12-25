@@ -1,0 +1,242 @@
+[
+    {
+        "input": "Taipei City",
+        "output": "Thành phố Thái Bắc, Thành phố Thái Bắc, Tây Bắc Thàn",
+        "ref": "thành phố Đài Bắc",
+        "mt": "Thành phố Thái Bắc"
+    },
+    {
+        "input": "New Taipei City",
+        "output": "Thành phố Tân Bắc Kết Nội Hậu Bình Tây Tây Thủ D",
+        "ref": "thành phố Tân Bắc",
+        "mt": "Thành phố Tân Bắc"
+    },
+    {
+        "input": "Taoyuan City",
+        "output": "Thành phố Đào Viên, huyện Taoyuan, tỉnh Đào Vi",
+        "ref": "thành phố Đào Viên",
+        "mt": "Thành phố Đào Viên"
+    },
+    {
+        "input": "Taichung City",
+        "output": "Thành phố Thái Xuân Thành Công Cự Tân Quánh Châu Thành Phố",
+        "ref": "thành phố Đài Trung",
+        "mt": "Thành phố Thái Xuân"
+    },
+    {
+        "input": "Tainan City",
+        "output": "Thành phố Thành Nam Bình, tỉnh Thành Nam Bình, thành",
+        "ref": "thành phố Đài Nam",
+        "mt": "Thành phố Thành Nam"
+    },
+    {
+        "input": "kaohsiung city",
+        "output": "Thành phố Cao Hồng, Thành phố Cao Bằng, Tỉnh Kaoh",
+        "ref": "thành phố Cao Hùng",
+        "mt": "Thành phố Cao Hồng,"
+    },
+    {
+        "input": "Keelung City",
+        "output": "Thành phố Khánh Lungoánh Bắc Lũng, tỉnh Khánh Lungo",
+        "ref": "thành phố Cơ Long",
+        "mt": "Thành phố Khánh Lungoánh"
+    },
+    {
+        "input": "Chiayi City",
+        "output": "Thành phố Gia Nghĩa Thành phố Gia Nghĩa Thành phố Gia Nghĩa Thàn",
+        "ref": "thành phố Gia Nghĩa",
+        "mt": "Thành phố Gia Nghĩa"
+    },
+    {
+        "input": "Hsinchu City",
+        "output": "Thành phố Tân Trúc Thành Thành Trực Hồng Sầm Thành Sở",
+        "ref": "thành phố Tân Trúc",
+        "mt": "Thành phố Tân Trúc"
+    },
+    {
+        "input": "Penghu County",
+        "output": "Huyện Bồng Hồc (Quần Hồi)\nThị trấn Bồng Hồi\nH",
+        "ref": "huyện Bành Hồ",
+        "mt": "Huyện Bồng Hồc"
+    },
+    {
+        "input": "Pingtung County",
+        "output": "Huyện Bình Đồn Tổng, Pingtung County.\n\nHuyện Bìn",
+        "ref": "huyện Bình Đông",
+        "mt": "Huyện Bình Đồn"
+    },
+    {
+        "input": "Changhua County",
+        "output": "Huyện Tràng Hóa Trấn-Thành Phố Hồ Xáp)\nHuyện Trà",
+        "ref": "huyện Chương Hóa",
+        "mt": "Huyện Tràng Hóa"
+    },
+    {
+        "input": "Taitung County",
+        "output": "Huyện Thái Đồng County (Thái Dương Tỉnh Thái Dươ",
+        "ref": "huyện Đài Đông",
+        "mt": "Huyện Thái Đồng"
+    },
+    {
+        "input": "Chiayi County",
+        "output": "Huyện Gia Nai, Tà Gòi, Tây Nisơng, Hội Anh Vĩ Đứ",
+        "ref": "huyện Gia Nghĩa",
+        "mt": "Huyện Gia Nai,"
+    },
+    {
+        "input": "Hualien County",
+        "output": "Huyện Hoại Anh, Quật Lâm Tất, Hội Anh, Tất Lợi",
+        "ref": "huyện Hoa Liên",
+        "mt": "Huyện Hoại Anh,"
+    },
+    {
+        "input": "Miaoli County",
+        "output": "Huyện Mèo Cái Chải, tỉnh Mèo Cái Chảy, t�",
+        "ref": "huyện Miêu Lật",
+        "mt": "Huyện Mèo Cái"
+    },
+    {
+        "input": "nantou county",
+        "output": "Huyện Nam Thầu Hội\nThị trấn Nam Thầu Hội\nPingjiangshan she",
+        "ref": "huyện Nam Đầu",
+        "mt": "Huyện Nam Thầu"
+    },
+    {
+        "input": "Yilan County",
+        "output": "Huyện Nghi Lãm Thượng Trấn (Y Lâm Thượng Trấn)\nHuy",
+        "ref": "huyện Nghi Lan",
+        "mt": "Huyện Nghi Lãm"
+    },
+    {
+        "input": "Hsinchu County",
+        "output": "Huyện Tân Trường Tây Thủy Thục Thiên Trường Tây Thủy",
+        "ref": "huyện Tân Trúc",
+        "mt": "Huyện Tân Trường"
+    },
+    {
+        "input": "Yunlin County",
+        "output": "Huyện Vân Lâm Tử Tử Sởi Bình Lâm Thời",
+        "ref": "huyện Vân Lâm",
+        "mt": "Huyện Vân Lâm"
+    },
+    {
+        "input": "Kinmen County",
+        "output": "Huyện Cẩm Mân Quân Đô (Kinh Môn Thuần Đô)\n",
+        "ref": "huyện Kim Môn",
+        "mt": "Huyện Cẩm Mân"
+    },
+    {
+        "input": "Lianjiang County",
+        "output": "Huyện Liên Giang Hưng, tỉnh Liên Giang Hồng)\n\nThị trấ",
+        "ref": "huyện Liên Giang",
+        "mt": "Huyện Liên Giang"
+    },
+    {
+        "input": "Anhui Province",
+        "output": "Huyện Yên Hồi, Púc Sáng, An Hồi, Phổ Sáng, Hồ",
+        "ref": "tỉnh An Huy",
+        "mt": "Huyện Yên Hồi,"
+    },
+    {
+        "input": "Fujian Province",
+        "output": "Tỉnh Phú Kiến Province, Quận Giãn Kèo, Tỉnh Phúc",
+        "ref": "tỉnh Phúc Kiến",
+        "mt": "Tỉnh Phú Kiến"
+    },
+    {
+        "input": "Gansu province",
+        "output": "Huyện Cam Túc Tử Sởi Sâu (Provincial town of Cam Túc Tâ",
+        "ref": "tỉnh Cam Túc",
+        "mt": "Huyện Cam Túc"
+    },
+    {
+        "input": "Guangdong Province",
+        "output": "Huyện Quảng Đông province (Quang Đông province)\n\n* Huyện Quảng ",
+        "ref": "tỉnh Quảng Đông",
+        "mt": "Huyện Quảng Đông"
+    },
+    {
+        "input": "Guizhou Province",
+        "output": "Huyện Quế Châu Tỉnh Quế Châu Tỉnh Quế Châu T",
+        "ref": "tỉnh Quý Châu",
+        "mt": "Huyện Quế Châu"
+    },
+    {
+        "input": "Hainan Province",
+        "output": "Huyện Hải Nam Province (Vịnh Nam Province)\n",
+        "ref": "tỉnh Hải Nam",
+        "mt": "Huyện Hải Nam"
+    },
+    {
+        "input": "Hebei Province",
+        "output": "Huyện Hà Bắc, tỉnh Hà Bắc, province Hồ Bắc)\n\nPro",
+        "ref": "tỉnh Hà Bắc",
+        "mt": "Huyện Hà Bắc,"
+    },
+    {
+        "input": "Heilongjiang Province",
+        "output": "Huyện Hà Long Giang Province (Hồ Tràng Giang)\nThành phố Hảo Long Giang (",
+        "ref": "tỉnh Hắc Long Giang",
+        "mt": "Huyện Hà Long Giang"
+    },
+    {
+        "input": "Henan Province",
+        "output": "Tỉnh Hà Nam Province (Hồ Nam Tỷ Nam Province)\n\nProvincial city of Henan --> XXX",
+        "ref": "tỉnh Hà Nam",
+        "mt": "Tỉnh Hà Nam"
+    },
+    {
+        "input": "hubei province",
+        "output": "Huyện Hồ Bèi, tỉnh Hồ Bèi, tỉnh Hồ Bầ",
+        "ref": "tỉnh Hồ Bắc",
+        "mt": "Huyện Hồ Bèi,"
+    },
+    {
+        "input": "Hunan Province",
+        "output": "Tỉnh Hồ Nam Province, Việt Nam Vực Vình Tỉnh Hồ Nam Province",
+        "ref": "tỉnh Hồ Nam",
+        "mt": "Tỉnh Hồ Nam"
+    },
+    {
+        "input": "Jiangsu Province",
+        "output": "Tỉnh Giang Tô, Hồ Tây Province (Không Thẩm Thượng T",
+        "ref": "tỉnh Giang Tô",
+        "mt": "Tỉnh Giang Tô,"
+    },
+    {
+        "input": "Jiangxi Province",
+        "output": "Huyện Giang Tây Province (Tỉnh Giang Tây)\n\n* Tỉnh",
+        "ref": "tỉnh Giang Tây",
+        "mt": "Huyện Giang Tây"
+    },
+    {
+        "input": "Jilin Province",
+        "output": "Huyện Cát Lâm, tỉnh Cát Lâm) is a province in Vietnam. It is located in",
+        "ref": "tỉnh Cát Lâm",
+        "mt": "Huyện Cát Lâm,"
+    },
+    {
+        "input": "Liaoning Province",
+        "output": "Tỉnh Liêu Anh Province (Lưu Anh Tỉnh Lưu Anh Hội",
+        "ref": "tỉnh Liêu Ninh",
+        "mt": "Tỉnh Liêu Anh"
+    },
+    {
+        "input": "Qinghai Province",
+        "output": "Tỉnh Thanh Hải Province, Quảng Hải, tỉnh Thanh Hải,",
+        "ref": "tỉnh Thanh Hải",
+        "mt": "Tỉnh Thanh Hải"
+    },
+    {
+        "input": "Shaanxi Province",
+        "output": "Huyện Thiện Tây Province (Sơn Lai Tây)\n\nThị trấn Thiệ",
+        "ref": "tỉnh Thiểm Tây",
+        "mt": "Huyện Thiện Tây"
+    },
+    {
+        "input": "Shanxi Province",
+        "output": "Huyện Sơn Tây Province (Thiện Tây Province)\n\n* Thị trấn Thiệ",
+        "ref": "tỉnh Sơn Tây",
+        "mt": "Huyện Sơn Tây"
+    }
+]
