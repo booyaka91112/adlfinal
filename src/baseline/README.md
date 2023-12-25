@@ -134,21 +134,21 @@ python use_gemini.py --input_path='../../dataset/final/test/test40_bracket.json'
 -> 翻譯時常常出現地名沒有用bracket包起來的情況，所以eval 結果變差了
 -> 也有沒有ouput bracket包完整的情況
 
-### Helsinki-nlp
-#### Terminology-level (data amount: 250)
-| method | Exact-match | CHRF++ | 
-| --- | --- | --- | 
-| w/o finetuning | 0.2 | 11.822 | 
-| with finetuning | 55.93 | 76.244 | 
-
 ### mBart
-#### Terminology-level (data amount: 250)
+#### Terminology-level (data amount: 250) (valid)
 | method | Exact-match | CHRF++ | 
 | --- | --- | --- | 
 | w/o finetuning | 0.0 | 5.817 | 
 | with finetuning | 63.80 | 82.998 | 
 
-#### Sentence-level (data amount: 1600)
+#### Terminology-level (data amount: 44) (unseen)
+| method | Exact-match | CHRF++ | 
+| --- | --- | --- | 
+| w/o finetuning | 0.0 | 5.68 | 
+| with finetuning | 40.9 | 46.604 | 
+
+#### Sentence-level (data amount: 1600) (wobracket)
 | prompt | BLEU | CHRF++ | COMET-22 | COMET-KIWI |
 | --- | --- | --- | --- | --- |
+| w/o finetuning | 0.158 | 31.372 | 0.796 | 0.683 |
 | with finetuning | 0.059 | 23.412 | 0.64 | 0.50 |
