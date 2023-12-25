@@ -23,6 +23,8 @@ Score Range: The chrF(++) score can be any value between 0.0 and 100.0, inclusiv
 ## BLEU 
 Please refer to [this](https://huggingface.co/spaces/evaluate-metric/bleu)
 
+## Exact Match
+Please refer to [this](https://huggingface.co/spaces/evaluate-metric/exact_match)
 
 
 ## Usage
