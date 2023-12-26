@@ -1,0 +1,202 @@
+[
+  {
+    "src": "我來自臺北市。",
+    "mt": "Tôi là người Đài Bắc thị.",
+    "ref": "Tôi đến từ thành phố Đài Bắc."
+  },
+  {
+    "src": "我住在新北市。",
+    "mt": "Tôi sống ở thị xã Tân Bắc",
+    "ref": "Tôi sống ở thành phố Tân Bắc."
+  },
+  {
+    "src": "桃園市在哪裡?",
+    "mt": "Thành phố Đào Viên 在哪裡?",
+    "ref": "Thành phố Đào Viên ở đâu?"
+  },
+  {
+    "src": "我在臺中市上班。",
+    "mt": "Tôi đang Đài Trung thị trên bánh xe.",
+    "ref": "Tôi làm việc ở thành phố Đài Trung."
+  },
+  {
+    "src": "臺南市離這裡遠嗎?",
+    "mt": "Đài Nam thị lệch đền xa?",
+    "ref": "Thành phố Đài Nam có xa đây không?"
+  },
+  {
+    "src": "你能告訴我高雄市的具體位置嗎?",
+    "mt": "Ai nói cho em địa chỉ chính xác của thành phố Cao Hùng?",
+    "ref": "Bạn có thể cho tôi biết vị trí cụ thể của thành phố Cao Hùng không?"
+  },
+  {
+    "src": "基隆市有哪些著名的地標?",
+    "mt": "Thành phố Cơ Long có những địa danh nổi tiếng nào?",
+    "ref": "Thành phố Cơ Long có địa danh nổi tiếng nào?"
+  },
+  {
+    "src": "嘉義市的面積是多少?",
+    "mt": "Diện tích thành phố Gia Nghĩa như nào?",
+    "ref": "Diện tích thành phố Gia Nghĩa là bao nhiêu?"
+  },
+  {
+    "src": "有多少人住在新竹市?",
+    "mt": "Số người đóng góp tại Tân Trúc thị?",
+    "ref": "Có bao nhiêu người sinh sống ở thành phố Tân Trúc?"
+  },
+  {
+    "src": "您去過澎湖縣嗎？",
+    "mt": "Nơi đâu bạn đi qua Bành Hồ xã?",
+    "ref": "Bạn đã đến huyện Bành Hồ chưa?"
+  },
+  {
+    "src": "我想了解屏東縣的歷史。",
+    "mt": "Tôi muốn hiểu biết lịch sử huyện Bình Đông.",
+    "ref": "Tôi muốn tìm hiểu lịch sử của huyện Bình Đông."
+  },
+  {
+    "src": "我很喜歡彰化縣的氣候。",
+    "mt": "Tôi rất vui vì khí hậu của Chương Hóa xã.",
+    "ref": "Tôi rất thích khí hậu của huyện Chương Hóa."
+  },
+  {
+    "src": "臺東縣的夜生活怎麼樣？",
+    "mt": "Ngày sinh ra Đài Đông hàng xóm sao?",
+    "ref": "Cuộc sống về đêm ở huyện Đài Đông như thế nào?"
+  },
+  {
+    "src": "嘉義縣有多少人口？",
+    "mt": "Số dân huyện Gia Nghĩa đâu?",
+    "ref": "Dân số huyện Gia Nghĩa là bao nhiêu?"
+  },
+  {
+    "src": "花蓮縣安全嗎？",
+    "mt": "Huyện Hoà Liên An toàn không?",
+    "ref": "Huyện Hoa Liên có an toàn không?"
+  },
+  {
+    "src": "我夢想住在苗栗縣。",
+    "mt": "Tôi mơ ước đặt đồng quê tại Miêu Lật xã.",
+    "ref": "Tôi mơ ước được sống ở huyện Miêu Lật."
+  },
+  {
+    "src": "我在南投縣遇見她。",
+    "mt": "Tôi ở Nam Đầu xứ gặp cô đó.",
+    "ref": "Tôi gặp cô ấy ở thành phố Hà Nội."
+  },
+  {
+    "src": "我想念在宜蘭縣的日子。",
+    "mt": "Tôi muốn nhớ những ngày tại huyện Nghi Lan.",
+    "ref": "Tôi nhớ những ngày ở huyện Nghi Lan."
+  },
+  {
+    "src": "新竹縣的生活品質很高。",
+    "mt": "Sống trong xã Tân Trúc có chất lượng đời sống rất cao.",
+    "ref": "Chất lượng cuộc sống ở huyện Tân Trúc rất cao."
+  },
+  {
+    "src": "我在雲林縣定居三年了。",
+    "mt": "Tôi ở huyện Vân Lâm định cư ba năm đó.",
+    "ref": "Tôi đã định cư ở huyện Vân Lâm 3 năm rồi."
+  },
+  {
+    "src": "金門縣擁有完善的教育體系。",
+    "mt": "Huyện Kim Môn có hệ thống giáo dục tốt đẹp.",
+    "ref": "Huyện Kim Môn có hệ thống giáo dục hoàn chỉnh."
+  },
+  {
+    "src": "連江縣有悠久和多樣的歷史。",
+    "mt": "Huyện Liên Giang có lịch sử hơn 500 năm.",
+    "ref": "Huyện Liên Giang có một lịch sử lâu dài và đa dạng."
+  },
+  {
+    "src": "安徽省有什麼娛樂活動嗎?",
+    "mt": "Xã An Huy có những sự kiện vui chơi nào?",
+    "ref": "Tỉnh An Huy có những hoạt động giải trí nào không?"
+  },
+  {
+    "src": "我們公司總部在福建省。",
+    "mt": "Chúng tôi công ty chung bộ tại tỉnh Phúc Kiến.",
+    "ref": "Trụ sở công ty chúng tôi tại tỉnh Phúc Kiến."
+  },
+  {
+    "src": "甘肅省擁有許多歷史建築。",
+    "mt": "Tỉnh Cam Túc sở hữu nhiều di tích lịch sử.",
+    "ref": "Tỉnh Cam Túc có nhiều kiến trúc lịch sử."
+  },
+  {
+    "src": "廣東省的公共交通系統非常發達。",
+    "mt": "Khu vực Quảng Đông có hệ thống giao thông công cộng phát triển rất nhiều.",
+    "ref": "Hệ thống giao thông công cộng của tỉnh Quảng Đông rất phát triển."
+  },
+  {
+    "src": "貴州省歷史博物館保存許多珍貴的文物。",
+    "mt": "Bảo tàng Lịch sử tỉnh Quý Châu lưu giữ nhiều vật liệu quý giá trong quá khứ. 將中文翻譯成越南語。",
+    "ref": "Bảo tàng lịch sử của tỉnh Quý Châu lưu giữ nhiều hiện vật quý giá."
+  },
+  {
+    "src": "海南省的居民非常友善。",
+    "mt": "Dân cư của tỉnh Hải Nam rất thân thiện.",
+    "ref": "Cư dân của tỉnh Hải Nam rất thân thiện."
+  },
+  {
+    "src": "河北省是一個安靜的地方。",
+    "mt": "Tỉnh Hà Bắc là một vùng đất yên bình.",
+    "ref": "Tỉnh Hà Bắc là một nơi yên tĩnh."
+  },
+  {
+    "src": "黑龍江省的夜市非常熱鬧。",
+    "mt": "Người Hắc Long Giang đều đi đến đây để mua sắm.",
+    "ref": "Chợ đêm ở tỉnh Hắc Long Giang rất nhộn nhịp."
+  },
+  {
+    "src": "河南省中心有一座噴泉。",
+    "mt": "Tỉnh Hà Nam trung tâm có một con suối bùn.",
+    "ref": "Có một đài phun nước ở trung tâm tỉnh Hà Nam."
+  },
+  {
+    "src": "湖北省附近有一片森林。",
+    "mt": "Vùng xung quanh tỉnh Hồ Bắc có một vùng rừng.",
+    "ref": "Có một khu rừng gần tỉnh Hồ Bắc."
+  },
+  {
+    "src": "湖南省的生活成本較低。",
+    "mt": "Vùng Hồ Nam có chi phí sống thấp hơn.",
+    "ref": "Chi phí sinh hoạt ở tỉnh Hồ Nam thấp hơn."
+  },
+  {
+    "src": "我曾經去江蘇省開發鐵路。",
+    "mt": "Tôi đã đi Gia Nghia tỉnh phát triển đường sắt.",
+    "ref": "Tôi từng đến tỉnh Giang Tô để phát triển đường sắt."
+  },
+  {
+    "src": "今天我想去江西省。",
+    "mt": "Hôm nay tôi muốn đi tới tỉnh Giang Tây.",
+    "ref": "Hôm nay tôi muốn đi tỉnh Giang Tây."
+  },
+  {
+    "src": "吉林省的海灘被國際帆板協會評為亞洲最好的海灘之一。",
+    "mt": "Tỉnh Cát Lâm có bãi biển Hạ Long được Hiệp hội cờ bóng bàn quốc tế châu Á xếp hạng là một trong những bãi biển tốt nhất châu lục.",
+    "ref": "Bãi biển của tỉnh Cát Lâm được Hiệp hội Lướt ván buồm quốc tế đánh giá là một trong những bãi biển tốt nhất châu Á."
+  },
+  {
+    "src": "遼寧省經濟持續穩定成長。",
+    "mt": "Tỉnh Liêu Ninh kinh tế duy trì ổn định phát triển.",
+    "ref": "Kinh tế tỉnh Liêu Ninh tăng trưởng liên tục và ổn định."
+  },
+  {
+    "src": "越南文化節將於青海省舉行。",
+    "mt": "Việt Nam Văn Hóa Sự Kiện được tổ chức tại tỉnh Thanh Hải.",
+    "ref": "Lễ hội văn hóa Việt Nam sẽ được tổ chức tại tỉnh Thanh Hải."
+  },
+  {
+    "src": "2019年11月陝西省交通事故死亡人數達657人。",
+    "mt": "Số chết do xe máy Thiểm Tây 657 người năm 2019.",
+    "ref": "657 người chết vì tai nạn giao thông tại tỉnh Thiểm Tây trong tháng 11/2019."
+  },
+  {
+    "src": "山西省巴士路線列表。",
+    "mt": "Danh sách tuyến xe buýt Sơn Tây.",
+    "ref": "Danh sách các tuyến xe buýt tại tỉnh Sơn Tây."
+  }
+]
