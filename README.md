@@ -1,5 +1,5 @@
 # dataset
-The dataset(PLCVD) in dataset.xlsx comprises 8,800 pairs of Chinese-Vietnamese place names and 726 pairs of Chinese-Vietnamese personal names. Other subset of PLCVD are collected in this directory.
+The dataset(PLCVD) in dataset_combined.xlsx comprises 8,800 pairs of Chinese-Vietnamese place names and 726 pairs of Chinese-Vietnamese personal names. Other subset of PLCVD are collected in this directory.
 
 * Under **final** directory
 ```
@@ -9,6 +9,7 @@ The dataset(PLCVD) in dataset.xlsx comprises 8,800 pairs of Chinese-Vietnamese p
 ```
 Check our report for more detail.
 
+chin.json is the dictionray of chinese character and Sino-Vietnamese.
 # output
 Our experiment results are stored in this directory.
 * gemini 
