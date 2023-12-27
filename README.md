@@ -25,3 +25,5 @@ Scripts for data preprocessing, training, evaluation are put here.
     > Scripts for using Gemini API. For more detail, check [this](https://github.com/booyaka91112/adlfinal/tree/main/src/baseline).
 * eval
     > Scripts for evaluation. For more detail, check [this](https://github.com/booyaka91112/adlfinal/tree/main/src/eval).
+# gradio
+Scripts for utilizing gradio for demo.
