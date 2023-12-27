@@ -1,0 +1,1002 @@
+[
+  {
+    "input": "洲化社",
+    "output": "Xã Châu Hóa"
+  },
+  {
+    "input": "宋珍社",
+    "output": "Xã Tống Trân"
+  },
+  {
+    "input": "番西邦坊",
+    "output": "Phường Phan Si Păng"
+  },
+  {
+    "input": "張光壹 ",
+    "output": "Trương Quang Nhất"
+  },
+  {
+    "input": "理國社",
+    "output": "Xã Lý Quốc"
+  },
+  {
+    "input": "至和社",
+    "output": "Xã Chí Hòa"
+  },
+  {
+    "input": "紅洲社",
+    "output": "Xã Hồng Châu"
+  },
+  {
+    "input": "青春南坊",
+    "output": "Phường Thanh Xuân Nam"
+  },
+  {
+    "input": "糾支縣",
+    "output": "Huyện Củ Chi"
+  },
+  {
+    "input": "姑內社",
+    "output": "Xã Cò Nòi"
+  },
+  {
+    "input": "安海坊",
+    "output": "Phường Yên Hải"
+  },
+  {
+    "input": "游澧社",
+    "output": "Xã Du Lễ"
+  },
+  {
+    "input": "美義社",
+    "output": "Xã Mỹ Ngãi"
+  },
+  {
+    "input": "赫拉社",
+    "output": "Xã Hra"
+  },
+  {
+    "input": "大城社",
+    "output": "Xã Đại Thành"
+  },
+  {
+    "input": "新濂社",
+    "output": "Xã Tân Liên"
+  },
+  {
+    "input": "鄧小平",
+    "output": "Đặng Tiểu Bình"
+  },
+  {
+    "input": "隆合社",
+    "output": "Xã Long Hiệp"
+  },
+  {
+    "input": "總骨社",
+    "output": "Xã Tổng Cọt"
+  },
+  {
+    "input": "多泊社",
+    "output": "Xã Đá Bạc"
+  },
+  {
+    "input": "中立下社",
+    "output": "Xã Trung Lập Hạ"
+  },
+  {
+    "input": "歸奇社",
+    "output": "Xã Quy Kỳ"
+  },
+  {
+    "input": "來𡑵市鎮",
+    "output": "Thị trấn Lai Vung"
+  },
+  {
+    "input": "儒關縣",
+    "output": "Huyện Nho Quan"
+  },
+  {
+    "input": "端下社",
+    "output": "Xã Đoan Hạ"
+  },
+  {
+    "input": "東新社",
+    "output": "Xã Đông Tân"
+  },
+  {
+    "input": "劉炳盛",
+    "output": "Lưu Bỉnh Thạnh"
+  },
+  {
+    "input": "率花社",
+    "output": "Xã Suối Hoa"
+  },
+  {
+    "input": "東湖坊",
+    "output": "Phường Đông Hồ"
+  },
+  {
+    "input": "雲早社",
+    "output": "Xã Vân Tảo"
+  },
+  {
+    "input": "彭鑫",
+    "output": "Bành Tân"
+  },
+  {
+    "input": "關山社",
+    "output": "Xã Quan Sơn"
+  },
+  {
+    "input": "增城社",
+    "output": "Xã Tăng Thành"
+  },
+  {
+    "input": "瑞和社",
+    "output": "Xã Thụy Hòa"
+  },
+  {
+    "input": "春光三社",
+    "output": "Xã Xuân Quang 3"
+  },
+  {
+    "input": "黃石社",
+    "output": "Xã Vàng Đán"
+  },
+  {
+    "input": "三協坊",
+    "output": "Phường Tam Hiệp"
+  },
+  {
+    "input": "肇山市鎮",
+    "output": "Thị trấn Triệu Sơn"
+  },
+  {
+    "input": "廣新社",
+    "output": "Xã Quảng Tân"
+  },
+  {
+    "input": "亞克英社",
+    "output": "Xã Ia Kriêng"
+  },
+  {
+    "input": "菊堂社",
+    "output": "Xã Cúc Đường"
+  },
+  {
+    "input": "黎灝",
+    "output": "Lê Hạo"
+  },
+  {
+    "input": "高豐社",
+    "output": "Xã Cao Phong"
+  },
+  {
+    "input": "望梯社",
+    "output": "Xã Vọng Thê"
+  },
+  {
+    "input": "名勝社",
+    "output": "Xã Danh Thắng"
+  },
+  {
+    "input": "宜同社",
+    "output": "Xã Nghi Đồng"
+  },
+  {
+    "input": "壽昌社",
+    "output": "Xã Thọ Xương"
+  },
+  {
+    "input": "瑞文社",
+    "output": "Xã Thuỵ Văn"
+  },
+  {
+    "input": "西山市鎮",
+    "output": "Thị trấn Tây Sơn"
+  },
+  {
+    "input": "該禮市社",
+    "output": "Thị xã Cai Lậy"
+  },
+  {
+    "input": "廣隆社",
+    "output": "Xã Quảng Long"
+  },
+  {
+    "input": "義中坊",
+    "output": "Phường Nghĩa Trung"
+  },
+  {
+    "input": "糾支市鎮",
+    "output": "Thị trấn Củ Chi"
+  },
+  {
+    "input": "亞坡洪社",
+    "output": "Xã Ia Phang"
+  },
+  {
+    "input": "錦富坊",
+    "output": "Phường Cẩm Phú"
+  },
+  {
+    "input": "茶句縣",
+    "output": "Huyện Trà Cú"
+  },
+  {
+    "input": "高奇社",
+    "output": "Xã Cao Kỳ"
+  },
+  {
+    "input": "大義市鎮",
+    "output": "Thị trấn Đại Ngãi"
+  },
+  {
+    "input": "瑞雲社",
+    "output": "Xã Thụy Vân"
+  },
+  {
+    "input": "棒艚市鎮",
+    "output": "Thị trấn Búng Tàu"
+  },
+  {
+    "input": "洲豐社",
+    "output": "Xã Châu Phong"
+  },
+  {
+    "input": "明光社",
+    "output": "Xã Minh Quang"
+  },
+  {
+    "input": "安川社",
+    "output": "Xã An Xuyên"
+  },
+  {
+    "input": "格水社",
+    "output": "Xã Cư Suê"
+  },
+  {
+    "input": "三平社",
+    "output": "Xã Tam Bình"
+  },
+  {
+    "input": "寧山社",
+    "output": "Xã Ninh Sơn"
+  },
+  {
+    "input": "馨江社",
+    "output": "Xã Sông Hinh"
+  },
+  {
+    "input": "親久義社",
+    "output": "Xã Thân Cửu Nghĩa"
+  },
+  {
+    "input": "慶安市鎮",
+    "output": "Thị trấn Khánh Yên"
+  },
+  {
+    "input": "共和坊",
+    "output": "Phường Cộng Hòa"
+  },
+  {
+    "input": "潘山社",
+    "output": "Xã Phan Sơn"
+  },
+  {
+    "input": "華祿社",
+    "output": "Xã Hoa Lộc"
+  },
+  {
+    "input": "通樹社",
+    "output": "Xã Thông Thụ"
+  },
+  {
+    "input": "段展",
+    "output": "Đoàn Triển"
+  },
+  {
+    "input": "永燕社",
+    "output": "Xã Vĩnh Yên"
+  },
+  {
+    "input": "金真坊",
+    "output": "Phường Kim Chân"
+  },
+  {
+    "input": "靜洲社",
+    "output": "Xã Tịnh Châu"
+  },
+  {
+    "input": "參山坊",
+    "output": "Phường Núi Sam"
+  },
+  {
+    "input": "得索社",
+    "output": "Xã Đắk Sôr"
+  },
+  {
+    "input": "樂衛社",
+    "output": "Xã Lạc Vệ"
+  },
+  {
+    "input": "進興社",
+    "output": "Xã Tiến Hưng"
+  },
+  {
+    "input": "得博希社",
+    "output": "Xã Đăk Pxi"
+  },
+  {
+    "input": "大恩二社",
+    "output": "Xã Đại Ân 2"
+  },
+  {
+    "input": "武氏芳翠",
+    "output": "Võ Thị Phương Thúy"
+  },
+  {
+    "input": "仁美社",
+    "output": "Xã Nhân Mỹ"
+  },
+  {
+    "input": "第十三坊",
+    "output": "Phường 13"
+  },
+  {
+    "input": "恩有社",
+    "output": "Xã Ân Hữu"
+  },
+  {
+    "input": "祿光社",
+    "output": "Xã Lộc Quang"
+  },
+  {
+    "input": "白藤坊",
+    "output": "Phường Bạch Đằng"
+  },
+  {
+    "input": "巴籠社",
+    "output": "Xã Pá Lông"
+  },
+  {
+    "input": "延樂社",
+    "output": "Xã Diên Lạc"
+  },
+  {
+    "input": "樂社",
+    "output": "Xã Lát"
+  },
+  {
+    "input": "裴氏春坊",
+    "output": "Phường Bùi Thị Xuân"
+  },
+  {
+    "input": "芒槈社",
+    "output": "Xã Mường Nọc"
+  },
+  {
+    "input": "海防市",
+    "output": "Thành phố Hải Phòng"
+  },
+  {
+    "input": "永會東社",
+    "output": "Xã Vĩnh Hội Đông"
+  },
+  {
+    "input": "平安社",
+    "output": "Xã Bình An"
+  },
+  {
+    "input": "義芳社",
+    "output": "Xã Nghĩa Phương"
+  },
+  {
+    "input": "羅班登社",
+    "output": "Xã La Pan Tẩn"
+  },
+  {
+    "input": "河內市",
+    "output": "Thành phố Hà Nội"
+  },
+  {
+    "input": "義心社",
+    "output": "Xã Nghĩa Tâm"
+  },
+  {
+    "input": "阮愛國",
+    "output": "Nguyễn Ái Quốc"
+  },
+  {
+    "input": "甲來社",
+    "output": "Xã Giáp Lai"
+  },
+  {
+    "input": "馬江縣",
+    "output": "Huyện Sông Mã"
+  },
+  {
+    "input": "美利B社",
+    "output": "Xã Mỹ Lợi B"
+  },
+  {
+    "input": "壽山社",
+    "output": "Xã Thọ Sơn"
+  },
+  {
+    "input": "都莫龍社",
+    "output": "Xã Tu Mơ Rông"
+  },
+  {
+    "input": "玉良社",
+    "output": "Xã Ngọc Lương"
+  },
+  {
+    "input": "某公社",
+    "output": "Xã Mỏ Công"
+  },
+  {
+    "input": "多群社",
+    "output": "Xã Đa Quyn"
+  },
+  {
+    "input": "多枚坊",
+    "output": "Phường Đa Mai"
+  },
+  {
+    "input": "新盛社",
+    "output": "Xã Tân Thịnh"
+  },
+  {
+    "input": "葦野",
+    "output": "Vỹ Dã"
+  },
+  {
+    "input": "順城坊",
+    "output": "Phường Thuận Thành"
+  },
+  {
+    "input": "五老社",
+    "output": "Xã Ngũ Lão"
+  },
+  {
+    "input": "仙會社",
+    "output": "Xã Tiên Hội"
+  },
+  {
+    "input": "桂春一社",
+    "output": "Xã Quế Xuân 1"
+  },
+  {
+    "input": "安協社",
+    "output": "Xã An Hiệp"
+  },
+  {
+    "input": "海興社",
+    "output": "Xã Hải Hưng"
+  },
+  {
+    "input": "大輻社",
+    "output": "Xã Đại Phúc"
+  },
+  {
+    "input": "亞威社",
+    "output": "Xã Ea Wy"
+  },
+  {
+    "input": "娘毛市鎮",
+    "output": "Thị trấn Nàng Mau"
+  },
+  {
+    "input": "和春西坊",
+    "output": "Phường Hòa Xuân Tây"
+  },
+  {
+    "input": "文斗坊",
+    "output": "Phường Văn Đẩu"
+  },
+  {
+    "input": "慶會社",
+    "output": "Xã Khánh Hội"
+  },
+  {
+    "input": "中原社",
+    "output": "Xã Trung Nguyên"
+  },
+  {
+    "input": "越勇",
+    "output": "Việt Dzũng"
+  },
+  {
+    "input": "福政社",
+    "output": "Xã Phước Chánh"
+  },
+  {
+    "input": "福海社",
+    "output": "Xã Phước Hải"
+  },
+  {
+    "input": "同錦社",
+    "output": "Xã Đồng Cẩm"
+  },
+  {
+    "input": "南富社",
+    "output": "Xã Nam Phú"
+  },
+  {
+    "input": "瑜珈社",
+    "output": "Xã Du Già"
+  },
+  {
+    "input": "嘉清社",
+    "output": "Xã Gia Thanh"
+  },
+  {
+    "input": "中城社",
+    "output": "Xã Trung Thành"
+  },
+  {
+    "input": "香富社",
+    "output": "Xã Hương Phú"
+  },
+  {
+    "input": "明和社",
+    "output": "Xã Minh Hòa"
+  },
+  {
+    "input": "雙順社",
+    "output": "Xã Song Thuận"
+  },
+  {
+    "input": "符美市鎮",
+    "output": "Thị trấn Phù Mỹ"
+  },
+  {
+    "input": "行鉑坊",
+    "output": "Phường Hàng Bạc"
+  },
+  {
+    "input": "長葛坊",
+    "output": "Phường Tràng Cát"
+  },
+  {
+    "input": "富樂社",
+    "output": "Xã Phú Lạc"
+  },
+  {
+    "input": "裴祥勛",
+    "output": "Bùi Tường Huân"
+  },
+  {
+    "input": "芒作社",
+    "output": "Xã Măng Tố"
+  },
+  {
+    "input": "清螺社",
+    "output": "Xã Thanh Lòa"
+  },
+  {
+    "input": "性靈縣",
+    "output": "Huyện Tánh Linh"
+  },
+  {
+    "input": "盛德社",
+    "output": "Xã Thạnh Đức"
+  },
+  {
+    "input": "峨海社",
+    "output": "Xã Nga Hải"
+  },
+  {
+    "input": "興通社",
+    "output": "Xã Hưng Thông"
+  },
+  {
+    "input": "大和社",
+    "output": "Xã Đại Hòa"
+  },
+  {
+    "input": "明祿社",
+    "output": "Xã Minh Lộc"
+  },
+  {
+    "input": "阮文心",
+    "output": "Nguyễn Văn Tâm"
+  },
+  {
+    "input": "彥市鎮",
+    "output": "Thị trấn Nghèn"
+  },
+  {
+    "input": "博拉社",
+    "output": "Xã B'lá"
+  },
+  {
+    "input": "美吉社",
+    "output": "Xã Mỹ Cát"
+  },
+  {
+    "input": "得玉社",
+    "output": "Xã Đắk Ngọk"
+  },
+  {
+    "input": "瀧圭社",
+    "output": "Xã Sông Khoai"
+  },
+  {
+    "input": "梁春長",
+    "output": "Lương Xuân Trường"
+  },
+  {
+    "input": "永泰社",
+    "output": "Xã Vĩnh Thới"
+  },
+  {
+    "input": "東黃社",
+    "output": "Xã Đông Hoàng"
+  },
+  {
+    "input": "大祿縣",
+    "output": "Huyện Đại Lộc"
+  },
+  {
+    "input": "美川坊",
+    "output": "Phường Mỹ Xuyên"
+  },
+  {
+    "input": "博兒社",
+    "output": "Xã Pù Nhi"
+  },
+  {
+    "input": "鄧山社",
+    "output": "Xã Đặng Sơn"
+  },
+  {
+    "input": "瀝蒢坊",
+    "output": "Phường Rạch Dừa"
+  },
+  {
+    "input": "錦興社",
+    "output": "Xã Cẩm Hưng"
+  },
+  {
+    "input": "香艾社",
+    "output": "Xã Hương Ngải"
+  },
+  {
+    "input": "寵羅社",
+    "output": "Xã Sủng Là"
+  },
+  {
+    "input": "順貴社",
+    "output": "Xã Thuận Quý"
+  },
+  {
+    "input": "連協社",
+    "output": "Xã Liên Hiệp"
+  },
+  {
+    "input": "岑毓英",
+    "output": "Sầm Dục Anh"
+  },
+  {
+    "input": "協盛社",
+    "output": "Xã Hiệp Thạnh"
+  },
+  {
+    "input": "廣平省",
+    "output": "Tỉnh Quảng Bình"
+  },
+  {
+    "input": "蘇合市鎮",
+    "output": "Thị trấn Tô Hạp"
+  },
+  {
+    "input": "茶柏坊",
+    "output": "Phường Trà Bá"
+  },
+  {
+    "input": "興禮社",
+    "output": "Xã Hưng Lễ"
+  },
+  {
+    "input": "紹慶坊",
+    "output": "Phường Thiệu Khánh"
+  },
+  {
+    "input": "富舍社",
+    "output": "Xã Phú Xá"
+  },
+  {
+    "input": "瀧摞社",
+    "output": "Xã Sông Lũy"
+  },
+  {
+    "input": "演利社",
+    "output": "Xã Diễn Lợi"
+  },
+  {
+    "input": "夏和縣",
+    "output": "Huyện Hạ Hòa"
+  },
+  {
+    "input": "廣南省",
+    "output": "Tỉnh Quảng Nam"
+  },
+  {
+    "input": "格摩社",
+    "output": "Xã Cư Mốt"
+  },
+  {
+    "input": "樂山社",
+    "output": "Xã Nhạo Sơn"
+  },
+  {
+    "input": "永豪社",
+    "output": "Xã Vĩnh Hào"
+  },
+  {
+    "input": "河靈社",
+    "output": "Xã Hà Linh"
+  },
+  {
+    "input": "永周A社",
+    "output": "Xã Vĩnh Châu A"
+  },
+  {
+    "input": "臨洮社",
+    "output": "Xã Lâm Thao"
+  },
+  {
+    "input": "桐枚坊",
+    "output": "Phường Đồng Mai"
+  },
+  {
+    "input": "瓊演社",
+    "output": "Xã Quỳnh Diễn"
+  },
+  {
+    "input": "祿本社",
+    "output": "Xã Lộc Bổn"
+  },
+  {
+    "input": "玉聚社",
+    "output": "Xã Ngọk Tụ"
+  },
+  {
+    "input": "山陀社",
+    "output": "Xã Sơn Đà"
+  },
+  {
+    "input": "高峰市鎮",
+    "output": "Thị trấn Cao Phong"
+  },
+  {
+    "input": "丐𪘵郡",
+    "output": "Quận Cái Răng"
+  },
+  {
+    "input": "廣義社",
+    "output": "Xã Quảng Ngãi"
+  },
+  {
+    "input": "離阿社",
+    "output": "Xã Lìa"
+  },
+  {
+    "input": "胡德越",
+    "output": "Hồ Đức Việt"
+  },
+  {
+    "input": "烏明縣",
+    "output": "Huyện U Minh"
+  },
+  {
+    "input": "布紅社",
+    "output": "Xã Pú Hồng"
+  },
+  {
+    "input": "保祿坊",
+    "output": "Phường B'lao"
+  },
+  {
+    "input": "直俊社",
+    "output": "Xã Trực Tuấn"
+  },
+  {
+    "input": "陶園社",
+    "output": "Xã Đào Viên"
+  },
+  {
+    "input": "文安坊",
+    "output": "Phường Văn An"
+  },
+  {
+    "input": "安樂坊",
+    "output": "Phường An Lạc"
+  },
+  {
+    "input": "平水社",
+    "output": "Xã Bình Thủy"
+  },
+  {
+    "input": "亞印社",
+    "output": "Xã Ia Din"
+  },
+  {
+    "input": "仁美社",
+    "output": "Xã Nhơn Mỹ"
+  },
+  {
+    "input": "梏仝社",
+    "output": "Xã Gáo Giồng"
+  },
+  {
+    "input": "仿朗社",
+    "output": "Xã Phổng Lặng"
+  },
+  {
+    "input": "花探社",
+    "output": "Xã Hoa Thám"
+  },
+  {
+    "input": "壽田社",
+    "output": "Xã Thọ Điền"
+  },
+  {
+    "input": "南注社",
+    "output": "Xã Nậm Chua"
+  },
+  {
+    "input": "清春社",
+    "output": "Xã Thanh Xuân"
+  },
+  {
+    "input": "自立社",
+    "output": "Xã Tự Lập"
+  },
+  {
+    "input": "水柳社",
+    "output": "Xã Thủy Liễu"
+  },
+  {
+    "input": "峨文社",
+    "output": "Xã Nga Văn"
+  },
+  {
+    "input": "義協社",
+    "output": "Xã Nghĩa Hiệp"
+  },
+  {
+    "input": "趙興",
+    "output": "Triệu Hưng"
+  },
+  {
+    "input": "豐稔社",
+    "output": "Xã Phong Nẫm"
+  },
+  {
+    "input": "安澤A社",
+    "output": "Xã An Trạch A"
+  },
+  {
+    "input": "義寧社",
+    "output": "Xã Nghĩa Ninh"
+  },
+  {
+    "input": "寧海社",
+    "output": "Xã Ninh Hải"
+  },
+  {
+    "input": "南義社",
+    "output": "Xã Nam Nghĩa"
+  },
+  {
+    "input": "炮台坊",
+    "output": "Phường Pháo Đài"
+  },
+  {
+    "input": "祿寧市鎮",
+    "output": "Thị trấn Lộc Ninh"
+  },
+  {
+    "input": "福德社",
+    "output": "Xã Phước Đức"
+  },
+  {
+    "input": "安基社",
+    "output": "Xã An Cơ"
+  },
+  {
+    "input": "北田社",
+    "output": "Xã Bắc Ruộng"
+  },
+  {
+    "input": "首添坊",
+    "output": "Phường Thủ Thiêm"
+  },
+  {
+    "input": "新定社",
+    "output": "Xã Tân Định"
+  },
+  {
+    "input": "達雷社",
+    "output": "Xã Đạ Lây"
+  },
+  {
+    "input": "海中社",
+    "output": "Xã Hải Trung"
+  },
+  {
+    "input": "周和社",
+    "output": "Xã Châu Hòa"
+  },
+  {
+    "input": "清漳市鎮",
+    "output": "Thị trấn Thanh Chương"
+  },
+  {
+    "input": "排山社",
+    "output": "Xã Bài Sơn"
+  },
+  {
+    "input": "陳興道坊",
+    "output": "Phường Trần Hưng Đạo"
+  },
+  {
+    "input": "永興A社",
+    "output": "Xã Vĩnh Hưng A"
+  },
+  {
+    "input": "長安社",
+    "output": "Xã Trường Yên"
+  },
+  {
+    "input": "趙氏貞",
+    "output": "Triệu Thị Trinh"
+  },
+  {
+    "input": "三合社",
+    "output": "Xã Tam Hợp"
+  },
+  {
+    "input": "些麻社",
+    "output": "Xã Ta Ma"
+  },
+  {
+    "input": "多辛齋社",
+    "output": "Xã Tủa Sín Chải"
+  },
+  {
+    "input": "和平社",
+    "output": "Xã Hòa Bình"
+  },
+  {
+    "input": "成泰B社",
+    "output": "Xã Thành Thới B"
+  },
+  {
+    "input": "農上社",
+    "output": "Xã Nông Thượng"
+  },
+  {
+    "input": "內黃社",
+    "output": "Xã Nội Hoàng"
+  },
+  {
+    "input": "積善社",
+    "output": "Xã Tích Thiện"
+  },
+  {
+    "input": "懸山社",
+    "output": "Xã Huyền Sơn"
+  },
+  {
+    "input": "雙子西社",
+    "output": "Xã Song Tử Tây"
+  },
+  {
+    "input": "富強社",
+    "output": "Xã Phú Cường"
+  }
+]
