@@ -1,15 +1,19 @@
 # dataset
 The dataset(PLCVD) in dataset_combined.xlsx comprises 8,800 pairs of Chinese-Vietnamese place names and 726 pairs of Chinese-Vietnamese personal names. Other subset of PLCVD are collected in this directory.
 
+```chin.json``` is the dictionray of Chinese character and Sino-Vietnamese.
+```train.json and valid.json``` we used in finetuning models.
+``````
+
 * Under **final\/test** directory
 ```
-    Terminolgy-level seen data --> valid.json
+    Terminolgy-level seen data --> valid250.json
     Terminolgy-level unseen data --> unseen.json
-    Sentence-level data --> test/test1600_wobracket.json
+    Sentence-level data --> test1600_wobracket.json
 ```
 Check our report for more detail.
 
-chin.json is the dictionray of chinese character and Sino-Vietnamese.
+
 # output
 Our experiment results are stored in this directory.
 * gemini 
