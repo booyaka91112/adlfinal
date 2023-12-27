@@ -3,7 +3,7 @@ The dataset(PLCVD) in dataset_combined.xlsx comprises 8,800 pairs of Chinese-Vie
 
 ```chin.json``` is the dictionray of Chinese character and Sino-Vietnamese.
 ```train.json and valid.json``` we used in finetuning models.
-``````
+
 
 * Under **final\/test** directory
 ```
