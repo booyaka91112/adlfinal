@@ -32,4 +32,4 @@ Scripts for data preprocessing, training, evaluation are put here.
     > Scripts for evaluation. For more detail, check [this](https://github.com/booyaka91112/adlfinal/tree/main/src/eval).
 # gradio
 ```python mbart.py``` for using our mbart model  
-```python llama2.py``` for using our llama 2 model
+```python llama22.py``` for using our llama 2 model
